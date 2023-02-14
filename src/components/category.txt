@@ -1,0 +1,7 @@
+<Route key={'business'} path='/business' element={<News pageSize={9} category={'business'} />} />
+<Route key={'entertainment'} path='/entertainment' element={<News pageSize={9} category={'entertainment'} />} />
+<Route key={'general'} path='/general' element={<News pageSize={9} category={'general'} />} />
+<Route key={'health'} path='/health' element={<News pageSize={9} category={'health'} />} />
+<Route key={'science'} path='/science' element={<News pageSize={9} category={'science'} />} />
+<Route key={'sports'} path='/sports' element={<News pageSize={9} category={'sports'} />} />
+<Route key={'technology'} path='/technology' element={<News pageSize={9} category={'technology'} />} />
