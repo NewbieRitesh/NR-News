@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Brit Awards 2023: Harry Styles steals the show with four wins",
+            "description": "\"I'm aware of my privilege tonight,\" Styles said, naming women who missed out on artist of the year.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-64612218",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/523A/production/_128605012_024ad9854457f1adf15f381635d89dd2905f181a.jpg",
+            "publishedAt": "2023-02-12T05:37:21.8035193Z",
+            "content": "Media caption, Harry Styles thanks his former One Direction bandmates\r\nHarry Styles has won all four Brits he was nominated for, including best album, artist and pop/R&amp;B act.\r\nThe show opened wit… [+6000 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Another horrible, no good, very bad week for George Santos",
+            "description": "Mocked by colleagues in Congress for his lies, the Republican faces mounting anger in his district.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64587233",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1126A/production/_128605207_gettyimages-1463954691.jpg",
+            "publishedAt": "2023-02-12T04:52:18.944107Z",
+            "content": "Politicians from both parties lined up this week to make jokes at the expense of George Santos, the newly elected Republican Congressman plagued by an increasingly bizarre mix of scandals. Voters in … [+6398 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "New Zealand braces for severe storm Gabrielle after record floods",
+            "description": "The storm has been downgraded from a cyclone but heavy wind and rain warnings remain in place.",
+            "url": "http://www.bbc.co.uk/news/world-asia-64608532",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15CA2/production/_128605298_capture.png",
+            "publishedAt": "2023-02-12T03:52:20.8508126Z",
+            "content": "Thousands of people in New Zealand have been left without power as parts of the country endure the start of a severe storm.\r\nGabrielle buffeted Australia's Norfolk Island overnight and has been downg… [+2016 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Grieving a daughter's Covid death in Wuhan - while being surveilled",
+            "description": "Yang Min has demanded \"justice\" for her daughter, who died of Covid in China three years ago.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-64143646",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3795/production/_128592241_gettyimages-1265371161.jpg",
+            "publishedAt": "2023-02-12T01:52:22.5845369Z",
+            "content": "\"The pain lasts for a lifetime. Even healing a little is difficult.\" \r\nIt's been three years since Yang Min's only child, Yuxi, died. The 24-year-old had been diagnosed with breast cancer and was adm… [+7196 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US aircraft shoots down new airborne object over Canada",
+            "description": "It comes after the US shot down an aerial object off the coast of Alaska on Friday.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64614098",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/09B9/production/_128598420_gettyimages-51834606-1.jpg",
+            "publishedAt": "2023-02-11T22:22:16.6470363Z",
+            "content": "Another unidentified object has been shot down over North American airspace, Canadian President Justin Trudeau has confirmed.\r\nHe said the latest object \"violated Canadian airspace\" and was shot down… [+1283 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Turkey earthquake rescue: How two sisters were saved from the rubble",
+            "description": "The BBC witnesses the hours-long rescue of Merve and Irem from a collapsed apartment block in Turkey.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-64612317",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1FCC/production/_128604180_rescue2.jpg",
+            "publishedAt": "2023-02-11T19:07:22.5385586Z",
+            "content": "Media caption, Watch: Rescuers use specialist cameras to free Irem And Merve from the rubble of their building in Antakya\r\n\"Merve! Irem! Merve! Irem,\" rescue worker Mustafa Ozturk is shouting. Everyo… [+6188 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Turkey earthquake rescue efforts disrupted by security concerns",
+            "description": "German and Austrian rescuers paused their operations in Turkey after reports of shots being fired.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-64608535",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1395C/production/_128602208_2563bdc89b8f6d8a7d5cfd5b90fd1e5d88da862c.jpg",
+            "publishedAt": "2023-02-11T17:07:17.2107052Z",
+            "content": "A worsening security situation in southern Turkey has disrupted rescue efforts following Monday's deadly earthquake, international groups have said. \r\nGerman rescue workers and the Austrian army paus… [+3462 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Thousands of pregnant Russian women fly to Argentina",
+            "description": "The women are trying to ensure their children obtain Argentinian passports, officials say.",
+            "url": "http://www.bbc.co.uk/news/world-64610954",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA78/production/_128602146_gettyimages-1140249260.jpg",
+            "publishedAt": "2023-02-11T16:22:23.3824107Z",
+            "content": "More than 5,000 pregnant Russian women have entered Argentina in recent months, including 33 on a single flight on Thursday, officials say.\r\nThe latest arrivals were all in the final weeks of pregnan… [+2698 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Super Bowl or Kelce Bowl? - your guide to NFL showpiece",
+            "description": "Your essential guide to Super Bowl 57 as the Kansas City Chiefs face the Philadelphia Eagles in Arizona for the NFL championship.",
+            "url": "http://www.bbc.co.uk/sport/american-football/64564039",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/139BD/production/_128571308_sbindex.jpg",
+            "publishedAt": "2023-02-11T15:22:30.3171312Z",
+            "content": "Sibling rivalry &amp; fired coaches reunited - the spicy story of Super Bowl LVII\r\n<table><tr><th>Super Bowl 57</th></tr>\r\n<tr><td>Venue: State Farm Stadium, Glendale Date: Sunday, 12 February Start:… [+7836 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Laura Kuenssberg: Jets to Ukraine decision 'not easy' says Poland",
+            "description": "Poland's president tells Laura Kuenssberg sending F-16 aircraft would be a \"very serious decision\".",
+            "url": "http://www.bbc.co.uk/news/world-europe-64602603",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/164E/production/_128601750_yy1024poland-pres-2-shot.jpg",
+            "publishedAt": "2023-02-11T13:37:22.5665723Z",
+            "content": "One of Ukraine's closest allies has cast doubt on whether it would be able to supply President Volodymyr Zelenksy with the fighter jets he says are needed to win the war with Russia. \r\nPoland's Presi… [+6303 chars]"
+        }
+    ]
+}
