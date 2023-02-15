@@ -18,7 +18,7 @@ export default class Navbar extends Component {
                                 </li>
                                 <li className="nav-item dropdown">
                                     <a className="nav-link dropdown-toggle" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        Category
+                                        Select Category
                                     </a>
                                     <ul className="dropdown-menu">
                                         <li><Link className="dropdown-item" to="/business" >business</Link></li>

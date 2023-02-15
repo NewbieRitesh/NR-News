@@ -1,9 +1,11 @@
 import React, { Component } from 'react'
+import "./App.css"
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import News from './components/News'
 
 export default class App extends Component {
+  
   render() {
     return (
       <div>
