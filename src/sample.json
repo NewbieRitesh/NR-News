@@ -1,136 +1,1306 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 16812,
     "articles": [
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": null,
+                "name": "Vnexpress.net"
             },
-            "author": "BBC News",
-            "title": "Brit Awards 2023: Harry Styles steals the show with four wins",
-            "description": "\"I'm aware of my privilege tonight,\" Styles said, naming women who missed out on artist of the year.",
-            "url": "http://www.bbc.co.uk/news/entertainment-arts-64612218",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/523A/production/_128605012_024ad9854457f1adf15f381635d89dd2905f181a.jpg",
-            "publishedAt": "2023-02-12T05:37:21.8035193Z",
-            "content": "Media caption, Harry Styles thanks his former One Direction bandmates\r\nHarry Styles has won all four Brits he was nominated for, including best album, artist and pop/R&amp;B act.\r\nThe show opened wit… [+6000 chars]"
+            "author": "VnExpress",
+            "title": "Tesla và Volkswagen - cuộc đua ngôi vương xe điện",
+            "description": "Tesla Model Y là xe điện bán chạy nhất châu Âu trong 2022, nhưng tổng doanh số xe điện của Volkswagen cao hơn Tesla.",
+            "url": "https://vnexpress.net/tesla-va-volkswagen-cuoc-dua-ngoi-vuong-xe-dien-4571214.html",
+            "urlToImage": "https://i2-vnexpress.vnecdn.net/2023/02/16/Volkswagen1-1676518040-8941-1676518269.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xLtLeYyMiTcwDf52OcJ32A",
+            "publishedAt": "2023-02-16T04:30:35Z",
+            "content": "Tesla Model Y là xe in bán chy nht châu Âu trong 2022, nhng tng doanh s xe in ca Volkswagen cao hn Tesla.Theo nghiên cu ca JATO Dynamics - hãng thng kê và phân tích th trng a quc gia - v 28 th trng t… [+2018 chars]"
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": null,
+                "name": "Www.nzz.ch"
             },
-            "author": "BBC News",
-            "title": "Another horrible, no good, very bad week for George Santos",
-            "description": "Mocked by colleagues in Congress for his lies, the Republican faces mounting anger in his district.",
-            "url": "http://www.bbc.co.uk/news/world-us-canada-64587233",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1126A/production/_128605207_gettyimages-1463954691.jpg",
-            "publishedAt": "2023-02-12T04:52:18.944107Z",
-            "content": "Politicians from both parties lined up this week to make jokes at the expense of George Santos, the newly elected Republican Congressman plagued by an increasingly bizarre mix of scandals. Voters in … [+6398 chars]"
+            "author": "Manuela Paganini (mpa)",
+            "title": "Bitte laden. Warum der Alltag mit einem Elektroauto kompliziert ist und wie die Probleme gelöst werden sollen",
+            "description": "Weil die Schweiz ein Land der Mieter ist, hat sie in Bezug auf Elektroauto-Aufladestationen einen gewichtigen Nachteil. Umso wichtiger ist das Netz öffentlicher Ladestationen.",
+            "url": "https://www.nzz.ch/wirtschaft/bitte-laden-warum-der-alltag-mit-einem-elektroauto-kompliziert-ist-und-wie-die-probleme-geloest-werden-sollen-ld.1721561",
+            "urlToImage": "https://img.nzz.ch/2023/02/14/2bc54820-e0a1-452d-9f8d-80257846017a.png?width=1200&height=675&fit=bound&quality=75&auto=webp&crop=2398,1349,x1,y0&wmark=nzz",
+            "publishedAt": "2023-02-16T04:30:00Z",
+            "content": "Die Zukunft des Autos ist elektrisch. Die EU verbietet ab 2035 neue Benzin- und Dieselautos. Und in der Schweiz geht der Bund davon aus, dass in rund 30 Jahren die Elektromobilität stark verbreitet s… [+6738 chars]"
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": null,
+                "name": "Biztoc.com"
             },
-            "author": "BBC News",
-            "title": "New Zealand braces for severe storm Gabrielle after record floods",
-            "description": "The storm has been downgraded from a cyclone but heavy wind and rain warnings remain in place.",
-            "url": "http://www.bbc.co.uk/news/world-asia-64608532",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15CA2/production/_128605298_capture.png",
-            "publishedAt": "2023-02-12T03:52:20.8508126Z",
-            "content": "Thousands of people in New Zealand have been left without power as parts of the country endure the start of a severe storm.\r\nGabrielle buffeted Australia's Norfolk Island overnight and has been downg… [+2016 chars]"
+            "author": "cnn.com",
+            "title": "Production halt on Ford's electric F-150 Lightning will last at least a week and half",
+            "description": "Ford recently stopped production on the electric F-150 Lightning pickup because of a possible battery problem. A Ford spokesperson now says a return to production “could take a few weeks.” The potential issue was discovered during the automaker’s pre-delivery…",
+            "url": "https://biztoc.com/x/197e71c143fe6be0",
+            "urlToImage": "https://c.biztoc.com/p/197e71c143fe6be0/og.webp",
+            "publishedAt": "2023-02-16T04:28:07Z",
+            "content": "Ford recently stopped production on the electric F-150 Lightning pickup because of a possible battery problem. A Ford spokesperson now says a return to production could take a few weeks.The potential… [+293 chars]"
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": null,
+                "name": "Biztoc.com"
             },
-            "author": "BBC News",
-            "title": "Grieving a daughter's Covid death in Wuhan - while being surveilled",
-            "description": "Yang Min has demanded \"justice\" for her daughter, who died of Covid in China three years ago.",
-            "url": "http://www.bbc.co.uk/news/world-asia-china-64143646",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3795/production/_128592241_gettyimages-1265371161.jpg",
-            "publishedAt": "2023-02-12T01:52:22.5845369Z",
-            "content": "\"The pain lasts for a lifetime. Even healing a little is difficult.\" \r\nIt's been three years since Yang Min's only child, Yuxi, died. The 24-year-old had been diagnosed with breast cancer and was adm… [+7196 chars]"
+            "author": "wired.com",
+            "title": "Twitter's AI ethics researchers rushed to publish a moderation bias study on arXiv in October 2022, deciding their prospects under Elon Musk would be too murky",
+            "description": "two years ago, Twitter launched what is perhaps the tech industry’s most ambitious attempt at algorithmic transparency. Its researchers wrote papers showing that Twitter’s AI system for cropping images in tweets favored white faces and women, and that posts f…",
+            "url": "https://biztoc.com/x/aee522588249fea0",
+            "urlToImage": "https://c.biztoc.com/p/aee522588249fea0/og.webp",
+            "publishedAt": "2023-02-16T04:28:07Z",
+            "content": "two years ago, Twitter launched what is perhaps the tech industrys most ambitious attempt at algorithmic transparency. Its researchers wrote papers showing that Twitters AI system for cropping images… [+291 chars]"
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": null,
+                "name": "Biztoc.com"
             },
-            "author": "BBC News",
-            "title": "US aircraft shoots down new airborne object over Canada",
-            "description": "It comes after the US shot down an aerial object off the coast of Alaska on Friday.",
-            "url": "http://www.bbc.co.uk/news/world-us-canada-64614098",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/09B9/production/_128598420_gettyimages-51834606-1.jpg",
-            "publishedAt": "2023-02-11T22:22:16.6470363Z",
-            "content": "Another unidentified object has been shot down over North American airspace, Canadian President Justin Trudeau has confirmed.\r\nHe said the latest object \"violated Canadian airspace\" and was shot down… [+1283 chars]"
+            "author": "apnews.com",
+            "title": "White House: Tesla to make some EV chargers available to all - The Associated Press",
+            "description": "White House: Tesla to make some EV chargers available to all FILE - Tesla vehicles charge at a station in Emeryville, Calif., Aug. 10, 2022. Tesla will, for the first time, make some of its charging stations available to all U.S. electric vehicles, regardless…",
+            "url": "https://biztoc.com/x/fe27dd03eab00c90",
+            "urlToImage": "https://c.biztoc.com/p/fe27dd03eab00c90/og.webp",
+            "publishedAt": "2023-02-16T04:28:07Z",
+            "content": "White House: Tesla to make some EV chargers available to allFILE - Tesla vehicles charge at a station in Emeryville, Calif., Aug. 10, 2022. Tesla will, for the first time, make some of its charging s… [+320 chars]"
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": null,
+                "name": "Motley Fool Australia"
             },
-            "author": "BBC News",
-            "title": "Turkey earthquake rescue: How two sisters were saved from the rubble",
-            "description": "The BBC witnesses the hours-long rescue of Merve and Irem from a collapsed apartment block in Turkey.",
-            "url": "http://www.bbc.co.uk/news/world-middle-east-64612317",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1FCC/production/_128604180_rescue2.jpg",
-            "publishedAt": "2023-02-11T19:07:22.5385586Z",
-            "content": "Media caption, Watch: Rescuers use specialist cameras to free Irem And Merve from the rubble of their building in Antakya\r\n\"Merve! Irem! Merve! Irem,\" rescue worker Mustafa Ozturk is shouting. Everyo… [+6188 chars]"
+            "author": "Sebastian Bowen",
+            "title": "Why are ASX 200 tech stocks like Xero having such a cracking run today?",
+            "description": "The tech sector is smashing the ASX 200 today. Here's why. \nThe post Why are ASX 200 tech stocks like Xero having such a cracking run today? appeared first on The Motley Fool Australia.",
+            "url": "https://www.fool.com.au/2023/02/16/why-are-asx-200-tech-stocks-like-xero-having-such-a-cracking-run-today/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/03/CBA-price-16_9-1200x675.jpg",
+            "publishedAt": "2023-02-16T04:19:04Z",
+            "content": "It’s been a fantastic day for the S&amp;P/ASX 200 Index (ASX: XJO) so far this Thursday. At present, the ASX 200 has shrugged off yesterday’s gloom and has rallied by 0.79% to back over 7,400 points.… [+2095 chars]"
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": null,
+                "name": "Biztoc.com"
             },
-            "author": "BBC News",
-            "title": "Turkey earthquake rescue efforts disrupted by security concerns",
-            "description": "German and Austrian rescuers paused their operations in Turkey after reports of shots being fired.",
-            "url": "http://www.bbc.co.uk/news/world-middle-east-64608535",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1395C/production/_128602208_2563bdc89b8f6d8a7d5cfd5b90fd1e5d88da862c.jpg",
-            "publishedAt": "2023-02-11T17:07:17.2107052Z",
-            "content": "A worsening security situation in southern Turkey has disrupted rescue efforts following Monday's deadly earthquake, international groups have said. \r\nGerman rescue workers and the Austrian army paus… [+3462 chars]"
+            "author": "yahoo.com",
+            "title": "Elon Musk’s dog added $500 million to Dogecoin’s market cap in 15 minutes",
+            "description": "One tweet from Elon Musk can move markets, and on Tuesday night, the Tesla CEO and embattled owner of Twitter pushed up the price of canine-themed cryptocurrencies with just a photo of his dog. “The new CEO of Twitter is amazing,” gushed Musk, as his dog, dre…",
+            "url": "https://biztoc.com/x/72822401df6fca10",
+            "urlToImage": "https://c.biztoc.com/p/72822401df6fca10/og.webp",
+            "publishedAt": "2023-02-16T04:14:08Z",
+            "content": "One tweet from Elon Musk can move markets, and on Tuesday night, the Tesla CEO and embattled owner of Twitter pushed up the price of canine-themed cryptocurrencies with just a photo of his dog.The ne… [+296 chars]"
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": null,
+                "name": "Biztoc.com"
             },
-            "author": "BBC News",
-            "title": "Thousands of pregnant Russian women fly to Argentina",
-            "description": "The women are trying to ensure their children obtain Argentinian passports, officials say.",
-            "url": "http://www.bbc.co.uk/news/world-64610954",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA78/production/_128602146_gettyimages-1140249260.jpg",
-            "publishedAt": "2023-02-11T16:22:23.3824107Z",
-            "content": "More than 5,000 pregnant Russian women have entered Argentina in recent months, including 33 on a single flight on Thursday, officials say.\r\nThe latest arrivals were all in the final weeks of pregnan… [+2698 chars]"
+            "author": "reuters.com",
+            "title": "Tesla to open U.S. charging network to rivals in $7.5 bln federal program -White House",
+            "description": "will open part of its U.S. charging network to electric vehicles (EVs) made by rivals as part of a $7.5 billion federal program to expand the use of EVs and cut carbon emissions. The move could help turn Tesla into the universal \"filling station\" of the EV er…",
+            "url": "https://biztoc.com/x/8be6be4145f879be",
+            "urlToImage": "https://c.biztoc.com/p/8be6be4145f879be/og.webp",
+            "publishedAt": "2023-02-16T04:08:09Z",
+            "content": "Tesla Inc (TSLA.O) will open part of its U.S. charging network to electric vehicles (EVs) made by rivals as part of a $7.5 billion federal program to expand the use of EVs and cut carbon emissions.Th… [+303 chars]"
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": null,
+                "name": "Kocpc.com.tw"
             },
-            "author": "BBC Sport",
-            "title": "Super Bowl or Kelce Bowl? - your guide to NFL showpiece",
-            "description": "Your essential guide to Super Bowl 57 as the Kansas City Chiefs face the Philadelphia Eagles in Arizona for the NFL championship.",
-            "url": "http://www.bbc.co.uk/sport/american-football/64564039",
-            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/139BD/production/_128571308_sbindex.jpg",
-            "publishedAt": "2023-02-11T15:22:30.3171312Z",
-            "content": "Sibling rivalry &amp; fired coaches reunited - the spicy story of Super Bowl LVII\r\n<table><tr><th>Super Bowl 57</th></tr>\r\n<tr><td>Venue: State Farm Stadium, Glendale Date: Sunday, 12 February Start:… [+7836 chars]"
+            "author": "Ross Wang",
+            "title": "超機密特斯拉 Hardware 4（HW4）自動輔助駕駛電腦被神人拿到了，拆解分析是免不了了",
+            "description": "雖然 Elon Musk 已經早早預告 Cybertruck 將會搭載 HW 4.0 晶片，但關於這個 FSD 自動輔助駕駛電腦的相關細節，原廠倒仍然不肯透露太多資訊。不過這些秘密，看來在平常主要專攻挖掘 Tesla 軟體方面秘辛的神人 green，挖到了超機密特斯拉 Hardware 4（HW4）自動輔助駕駛電腦之後，都將一一被解開。繼續閱讀超機密特斯拉 Hardware 4（HW4）自動輔助駕駛電腦被神人拿到了，拆解分析是免不了了報導內文。\nThe post 超機密特斯拉 Hardware 4（HW4）自動輔…",
+            "url": "https://www.kocpc.com.tw/archives/480634",
+            "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2023/02/1676519402-468ed1931179afd5ef834778cdd50c59.jpg",
+            "publishedAt": "2023-02-16T04:02:08Z",
+            "content": "Elon Musk Cybertruck HW 4.0 FSD Tesla green Hardware 4HW4 Hardware 4HW4 green\r\n Elon Musk Cybertruck HW 4.0 FSD Tesla green Hardware 4HW4\r\ngreen Hardware 4HW4 Tesla Cybertruck Model X Model S Model Y… [+814 chars]"
         },
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": null,
+                "name": "DIE WELT"
             },
-            "author": "BBC News",
-            "title": "Laura Kuenssberg: Jets to Ukraine decision 'not easy' says Poland",
-            "description": "Poland's president tells Laura Kuenssberg sending F-16 aircraft would be a \"very serious decision\".",
-            "url": "http://www.bbc.co.uk/news/world-europe-64602603",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/164E/production/_128601750_yy1024poland-pres-2-shot.jpg",
-            "publishedAt": "2023-02-11T13:37:22.5665723Z",
-            "content": "One of Ukraine's closest allies has cast doubt on whether it would be able to supply President Volodymyr Zelenksy with the fighter jets he says are needed to win the war with Russia. \r\nPoland's Presi… [+6303 chars]"
+            "author": "Ibrahim Naber",
+            "title": "So gefährlich ist Musks Drohung für das ukrainische Militär",
+            "description": "US-Techmilliardär Elon Musk galt lange als einer der wichtigsten Unterstützer der Ukraine. Nun kündigte er an, die Nutzung seiner Starlink-Satelliten durch das ukrainische Militär massiv einzuschränken. Unser Reporter hat in Bachmut mit Soldaten an der Front …",
+            "url": "https://www.welt.de/politik/ausland/article243783985/Starlink-So-gefaehrlich-ist-Musks-Drohung-fuer-das-ukrainische-Militaer.html",
+            "urlToImage": "https://img.welt.de/img/politik/ausland/mobile243785379/8931359457-ci16x9-w1200/Starlink-ueber-melanie-looswelt-de-3.jpg",
+            "publishedAt": "2023-02-16T03:50:19Z",
+            "content": "Inmitten von Ruinen im ostukrainischen Frontort Tschassiw Jar, vor dem zerborstenen Fenster eines Hochhauses, suchen ukrainische Soldaten am Montagmittag nach Russen. Der 25-jährige Bogdan Borodai, T… [+6978 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CleanTechnica"
+            },
+            "author": "Steve Hanley",
+            "title": "New Entry-Level Volkswagen May Carry The Golf Name Forward",
+            "description": "Volkswagen is working on an electric urban car that will sell for around 20,000 euros and may be known as a Golf. A GTI version is possible.",
+            "url": "https://cleantechnica.com/2023/02/15/new-entry-level-volkswagen-may-carry-the-golf-name-forward/",
+            "urlToImage": "https://cleantechnica.com/files/2021/09/VW-ID.-LIFE-2.jpg",
+            "publishedAt": "2023-02-16T03:40:42Z",
+            "content": "For the past two years, Volkswagen has been trying to figure out how to bring electric cars to market that will appeal to those people who prefer a compact city car akin to the E-Up! and the Polo. Th… [+6125 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "AP",
+            "title": "White House: Tesla to make some EV chargers available to all",
+            "description": "The plan will make at least 7,500 chargers from Tesla's Supercharger and Destination Charger network available to non-Tesla EVs by the end of 2024, the White House said.",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/white-house-tesla-to-make-some-ev-chargers-available-to-all/articleshow/97966813.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-97966813,width-1070,height-580,imgsize-116036,overlay-economictimes/photo.jpg",
+            "publishedAt": "2023-02-16T03:35:45Z",
+            "content": "Electric car giant Tesla will, for the first time, make some of its charging stations available to all U.S. electric vehicles by the end of next year, under a new plan announced Wednesday by the Whit… [+5428 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "AP",
+            "title": "White House: Tesla to make some EV chargers available to all",
+            "description": "The plan will make at least 7,500 chargers from Tesla's Supercharger and Destination Charger network available to non-Tesla EVs by the end of 2024, the White House said.",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/white-house-tesla-to-make-some-ev-chargers-available-to-all/articleshow/97966879.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-97966813,width-1070,height-580,imgsize-116036,overlay-economictimes/photo.jpg",
+            "publishedAt": "2023-02-16T03:35:45Z",
+            "content": "Electric car giant Tesla will, for the first time, make some of its charging stations available to all U.S. electric vehicles by the end of next year, under a new plan announced Wednesday by the Whit… [+5428 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "electrek.co",
+            "title": "Sick of EV chargers not working? Here's how that's going to change",
+            "description": "The Biden administration today announced that the US government is going to set standards for federally funded EV chargers – a US first. In other words, if an EV charger is installed using federal dollars, then it has to actually work, and to a high standard.…",
+            "url": "https://biztoc.com/x/a67f506977699ddf",
+            "urlToImage": "https://c.biztoc.com/p/a67f506977699ddf/og.webp",
+            "publishedAt": "2023-02-16T03:30:05Z",
+            "content": "The Biden administration today announced that the US government is going to set standards for federally funded EV chargers a US first. In other words, if an EV charger is installed using federal doll… [+308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Reuters",
+            "title": "Charlie Munger downplays risk of Taiwan invasion, says crypto fans are #39;idiots#39;",
+            "description": "Charlie Munger also doubled down on his recent Wall Street Journal editorial calling for the U.S. government to follow China and ban cryptocurrency, saying &quot;people who oppose my position are idiots.&quot;",
+            "url": "https://www.moneycontrol.com/news/world/charlie-munger-downplays-risk-of-taiwan-invasion-says-crypto-fans-are-idiots-10093301.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/02/Charlie-Munger-770x433.jpg",
+            "publishedAt": "2023-02-16T03:20:35Z",
+            "content": "Charlie Munger, the longtime business partner of Warren Buffett at Berkshire Hathaway Inc (BRKa.N), on Wednesday said China remains a top opportunity for investors despite geopolitical risks.\r\nMunger… [+2019 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Reuters",
+            "title": "Tesla to universalise US charging stations as part of $7.5 bn federal program",
+            "description": "Tesla will open its vast network of EV charging stations to all the electric vehicles in the USA as part of Biden government's $7.5 billion federal program",
+            "url": "https://www.livemint.com/companies/news/tesla-to-universalise-us-charging-stations-as-part-of-7-5-bn-federal-program-11676512346460.html",
+            "urlToImage": "https://images.livemint.com/img/2023/02/16/600x338/US_Tesla_1676517044990_1676517045208_1676517045208.jpg",
+            "publishedAt": "2023-02-16T03:17:02Z",
+            "content": "As a part of the universalisation of EV charging in the USA, the Biden administration collaborated with Tesla to open part of its US charging network to all Electric Vehicles. Tesla EV charging stati… [+4156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "feedfeeder",
+            "title": "Charlie Munger on BYD versus Tesla: This carmaker is so ahead of Tesla in China, it's ridiculous - CNBC Television",
+            "description": "Charlie Munger on BYD versus Tesla: This carmaker is so ahead of Tesla in China, it's ridiculousCNBC Television Charlie Munger: 'I'm not proud of my country' for allowing 'crypto sh-t'Yahoo Finance Charlie Munger says BYD is so far ahead of Tesla in China 'it…",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=170351561",
+            "urlToImage": null,
+            "publishedAt": "2023-02-16T03:13:17Z",
+            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "investing.com",
+            "title": "Tesla sold out Model Y in U.S. for this quarter",
+            "description": "Electric vehicle maker Tesla (NASDAQ: ) Inc has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, citing sources familiar with the matter. The expected delivery date for the…",
+            "url": "https://biztoc.com/x/f89000a04ea0414f",
+            "urlToImage": "https://c.biztoc.com/p/f89000a04ea0414f/og.webp",
+            "publishedAt": "2023-02-16T03:12:06Z",
+            "content": "Electric vehicle maker Tesla (NASDAQ: ) Inc has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, citing sources … [+247 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "businessinsider.com",
+            "title": "Elon Musk cofounded the company behind ChatGPT but he's warning that unregulated AI comes with 'great danger'",
+            "description": "Elon Musk, co-founder and CEO of Tesla Motors, speaks at the 2015 Automotive News World Congress January 13, 2015 in Detroit, Michigan. More than 5,000 journalists from around the world will see approximately 45 new vehicles unveiled during the 2015 NAIAS, wh…",
+            "url": "https://biztoc.com/x/3bf51568ac0af62a",
+            "urlToImage": "https://c.biztoc.com/p/3bf51568ac0af62a/og.webp",
+            "publishedAt": "2023-02-16T03:04:05Z",
+            "content": "Elon Musk, co-founder and CEO of Tesla Motors, speaks at the 2015 Automotive News World Congress January 13, 2015 in Detroit, Michigan. More than 5,000 journalists from around the world will see appr… [+319 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Finance.ua"
+            },
+            "author": "Finance.UA",
+            "title": "Tesla изменила цены на свои авто в США четвертый раз за два месяца",
+            "description": "Автопроизводитель Tesla изменил цены на одну версию каждого из своих седанов Model 3 и кроссоверов Model Y в США, что явилось четвертой корректировкой цен с начала года.",
+            "url": "https://news.finance.ua/ru/tesla-izmenila-ceny-na-svoi-avto-v-ssha-chetvertyy-raz-za-dva-mesyaca",
+            "urlToImage": "https://finance-news-media.fra1.cdn.digitaloceanspaces.com/prod/a/6/a66c8b5617c31f8452e45c35b9d1b732",
+            "publishedAt": "2023-02-16T03:01:00Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Unwire.hk"
+            },
+            "author": "唐美鳳",
+            "title": "傳 Tesla 升級上海生產線 為投產改版 Model 3 新車作準備",
+            "description": "Tesla Model 3 自從 2017 年正式投產後，過去多年都是不少市場的最熱賣電動車車款，消息指在經過 5 年後，Tesla 計劃為 Model 3 推出小改版。《彭博》日前引述消息人士指，Tesla 的上海超級工廠將會在本週日（2 月 19 日）起，暫時停產 Model 3 以便將生產線升級。The post 傳 Tesla 升級上海生產線 為投產改版 Model 3 新車作準備 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+            "url": "https://unwire.hk/2023/02/16/tesla-china-project-highland-model-3-production/life-tech/auto/",
+            "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2023/02/02-15.png",
+            "publishedAt": "2023-02-16T02:50:38Z",
+            "content": "Tesla Model 3 2017 5 Tesla Model 3 Tesla 2 19 Model 3 \r\n Model 3 Model Y \r\n Tesla Model 3 Project Highland Tesla Model 3 \r\nteslarati\r\nunwire.hk Mewe https://mewe.com/p/unwirehk"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Independent.ie"
+            },
+            "author": "By Farnoush Amiri, Associated Press",
+            "title": "Republicans subpoena tech chiefs as part of probe into censorship claims",
+            "description": "Subpoenas have been sent to the chief executives of the five largest tech companies as congressional Republicans moved to investigate what they claim is widespread corporate censorship of conservative voices.",
+            "url": "https://www.independent.ie/world-news/republicans-subpoena-tech-chiefs-as-part-of-probe-into-censorship-claims-42344680.html",
+            "urlToImage": "https://www.independent.ie/world-news/4569e/42344677.ece/AUTOCROP/w1240h700/ipanews_1485d6b0-9354-4ee7-a8cd-efb6a632133b_1",
+            "publishedAt": "2023-02-16T02:47:00Z",
+            "content": "Subpoenas have been sent to the chief executives of the five largest tech companies as congressional Republicans moved to investigate what they claim is widespread corporate censorship of conservativ… [+2860 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Today"
+            },
+            "author": "Reuters",
+            "title": "Tesla sold out Model Y in US for this quarter",
+            "description": "The expected delivery date for the fully electric, mid-sized sports utility vehicle (SUV) to US customers is now April-June 2023, the carmaker's website showed, while the delivery schedule for Model S is February- March.",
+            "url": "https://www.businesstoday.in/auto/story/tesla-sold-out-model-y-in-us-for-this-quarter-370410-2023-02-16",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/ezgif-sixteen_nine_199.jpg",
+            "publishedAt": "2023-02-16T02:38:56Z",
+            "content": "Electric vehicle maker Tesla Inc has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, citing sources familiar wi… [+936 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Katyanna Quach",
+            "title": "Biden: I want standard EV chargers made in America by 2024 – get on it",
+            "description": "So Tesla's gonna open up its proprietary tech? The Biden-Harris Administration announced rules on Wednesday requiring the American automotive industry to build interoperable electric vehicle chargers that must be manufactured within the country – using US-sou…",
+            "url": "https://www.theregister.com/2023/02/16/electric_vehicle_chargers/",
+            "urlToImage": "https://regmedia.co.uk/2022/12/12/ev_shutterstock.jpg",
+            "publishedAt": "2023-02-16T02:35:13Z",
+            "content": "The Biden-Harris Administration announced rules on Wednesday requiring the American automotive industry to build interoperable electric vehicle chargers that must be manufactured within the country u… [+2758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Today"
+            },
+            "author": "Reuters",
+            "title": "Tesla to open US charging network to rivals in $7.5 bn federal program",
+            "description": "By late 2024, Tesla would open 3,500 new and existing Superchargers along highway corridors to non-Tesla customers, the Biden administration said.",
+            "url": "https://www.businesstoday.in/auto/story/tesla-to-open-us-charging-network-to-rivals-in-75-bn-federal-program-370407-2023-02-16",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202302/teslap1200-sixteen_nine-sixteen_nine.jpg",
+            "publishedAt": "2023-02-16T02:24:24Z",
+            "content": "Tesla Inc will open part of its US charging network to electric vehicles (EVs) made by rivals as part of a $7.5 billion federal program to expand the use of EVs and cut carbon emissions.\r\nThe move co… [+3745 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Charlie Munger Says BYD 'Much Ahead' Of Tesla In China",
+            "description": "Veteran investor and Vice Chair Of Berkshire Hathaway Inc (NYSE: BRK-A) (NYSE: BRK-B), Charlie Munger, said Wednesday that BYD Company Ltd BYDDF BYDDY is “much ahead” of Tesla Inc TSLA in China. What Happened: Munger, a long-time associate of Berkshire Chair …",
+            "url": "https://biztoc.com/x/aa8c8b87fe6e9bb9",
+            "urlToImage": "https://c.biztoc.com/152/og.png",
+            "publishedAt": "2023-02-16T02:14:04Z",
+            "content": "Veteran investor and Vice Chair Of Berkshire Hathaway Inc (NYSE: BRK-A) (NYSE: BRK-B), Charlie Munger, said Wednesday that BYD Company Ltd BYDDF BYDDY is much ahead of Tesla Inc TSLA in China.What Ha… [+321 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Reuters",
+            "title": "Charlie Munger downplays risk of Taiwan invasion, says crypto fans are 'idiots'",
+            "description": "The 99-year-old spoke while fielding 2-1/4 hours of questions at the annual meeting of Daily Journal Corp, a Los Angeles newspaper publisher and provider of software to courthouses that he chaired for 45 years and where he remains a director.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/charlie-munger-downplays-risk-of-taiwan-invasion-says-crypto-fans-are-idiots/articleshow/97965061.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-97965073,width-1070,height-580,imgsize-27388,overlay-etmarkets/photo.jpg",
+            "publishedAt": "2023-02-16T02:10:25Z",
+            "content": "Charlie Munger, the longtime business partner of Warren Buffett at Berkshire Hathaway Inc, on Wednesday said China remains a top opportunity for investors despite geopolitical risks.Munger also doubl… [+2138 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmitchell@insider.com (Taiyler Simone Mitchell)",
+            "title": "Elon Musk cofounded the company behind ChatGPT but he's warning that unregulated AI comes with 'great danger'",
+            "description": "Musk said that regulating AI \"may slow down AI a little bit,\" but added that it \"might also be a good thing.\"",
+            "url": "https://www.businessinsider.com/musk-cofounder-of-openai-says-unregulated-ai-is-great-danger-2023-2",
+            "urlToImage": "https://i.insider.com/63cfa5c90a375c0018fa8b68?width=1200&format=jpeg",
+            "publishedAt": "2023-02-16T02:03:06Z",
+            "content": "Billionaire Elon Musk forewarned that unchecked artificial intelligence poses a threat to society.\r\nOn Wednesday, Musk, who co-founded OpenAI, the company that created the ChatGPT tool, said during W… [+2337 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "MoneyDJ",
+            "title": "特斯拉上海廠減產升級產線，改款 Model 3 蓄勢待發",
+            "description": "據彭博社 2 月 15 日報導，電動車大廠特斯拉（Tesla）上海工廠將實施減產至 2 月底，目的是進行設備升級，準備開始生產全新改款的 Model 3 車型。 特斯拉於2017年首次推出平價車款Model 3，一直是特斯拉最暢銷的主力產品，之後經歷多次改版。2022年11月時路透社曾報導，特斯拉正...",
+            "url": "https://technews.tw/2023/02/16/tesla-to-halt-china-plant-for-upgrades-to-make-new-model-3/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/02/08114404/shutterstock_1296460099.jpg",
+            "publishedAt": "2023-02-16T02:00:26Z",
+            "content": "2 15 Tesla 2 Model 3 \r\n2017Model 3202211HighlandModel 3Model 3\r\n19Model 3\r\n1FordSUV Mustang Mach-ELucidLucid Air\r\n20231-3426,000420,0002022405,000\r\nMoneyDJ shutterstock"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Star Online"
+            },
+            "author": "Ben Stupples, Sophie Alexander",
+            "title": "Elon Musk nears world’s richest title again",
+            "description": "Elon Musk is closing in on recapturing his title as the world’s richest person since falling behind Bernard Arnault in December, thanks to Tesla Inc’s 70% rise this year. Read full story",
+            "url": "https://www.thestar.com.my/tech/tech-news/2023/02/16/elon-musk-nears-worlds-richest-title-again",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/02/16/1943322.JPG",
+            "publishedAt": "2023-02-16T02:00:00Z",
+            "content": "Elon Musk is closing in on recapturing his title as the worlds richest person since falling behind Bernard Arnault in December, thanks to Tesla Incs 70% rise this year.\r\nIt may take a bit longer for … [+2521 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Reuters",
+            "title": "Tesla sold out Model Y in US for this quarter",
+            "description": "The expected delivery date for the fully electric, mid-sized sports utility vehicle (SUV) to U.S. customers is now April-June 2023, the carmaker#39;s website showed, while the delivery schedule for Model S is February- March.",
+            "url": "https://www.moneycontrol.com/news/world/tesla-sold-out-model-y-in-us-for-this-quarter-10092921.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/07/Tesla-770x433.jpg",
+            "publishedAt": "2023-02-16T01:37:31Z",
+            "content": "Electric vehicle maker Tesla Inc has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, citing sources familiar wi… [+938 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FX Empire"
+            },
+            "author": "Reuters",
+            "title": "Tesla sold out Model Y in U.S. for this quarter – Electrek",
+            "description": "(Reuters) -   Electric vehicle maker Tesla Inc has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, citing sources familiar with the matter.",
+            "url": "https://www.fxempire.com/news/article/tesla-sold-out-model-y-in-u-s-for-this-quarter-electrek-1285943",
+            "urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2021/10/Depositphotos_24448463_S-1-3.jpg",
+            "publishedAt": "2023-02-16T01:36:14Z",
+            "content": "This comes after Tesla cut prices globally in January by as much as 20% with the Model Y priced at $52,990, down from $65,990 in the United States, according to Reuters calculations. \r\nChief Executiv… [+566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "reuters.com",
+            "title": "Tesla sold out Model Y in U.S. for this quarter",
+            "description": "Electric vehicle maker Tesla Inc (TSLA.O) has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, citing sources familiar with the matter. The expected delivery date for the f…",
+            "url": "https://biztoc.com/x/66510958d0ef1f18",
+            "urlToImage": "https://c.biztoc.com/p/66510958d0ef1f18/og.webp",
+            "publishedAt": "2023-02-16T01:34:05Z",
+            "content": "Electric vehicle maker Tesla Inc (TSLA.O) has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, citing sources fa… [+292 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "Tesla sold out Model Y in U.S. for this quarter - Electrek",
+            "description": "Tesla sold out Model Y in U.S. for this quarter - Electrek",
+            "url": "https://www.investing.com/news/stock-market-news/tesla-sold-out-model-y-in-us-for-this-quarter--electrek-3004908",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEA6F0VZ_L.jpg",
+            "publishedAt": "2023-02-16T01:31:36Z",
+            "content": "(Reuters) - Electric vehicle maker Tesla (NASDAQ:TSLA) Inc has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, … [+966 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "chaim613",
+            "title": "AI is civilization's great threat, Elon Musk",
+            "description": "Elon Musk Reveals ‘One of the Biggest Risks’ to Human CivilizationTesla CEO tells audience that AI could pose an existential threat.Elon Musk said that ChatGPT and other recent advancements in artificial intelligence (AI) could pose a significant risk to civi…",
+            "url": "https://slashdot.org/submission/17185749/ai-is-civilizations-great-threat-elon-musk",
+            "urlToImage": null,
+            "publishedAt": "2023-02-16T01:29:50Z",
+            "content": "Elon Musk Reveals ‘One of the Biggest Risks’ to Human CivilizationTesla CEO tells audience that AI could pose an existential threat.Elon Musk said that ChatGPT and other recent advancements in artifi… [+2849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Tesla sold out Model Y in U.S. for this quarter - Electrek",
+            "description": "The expected delivery date for the fully electric, mid-sized sports utility vehicle (SUV) to U.S. customers is now April-June 2023, the carmaker's website...",
+            "url": "https://finance.yahoo.com/news/tesla-sold-model-y-u-012534184.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/a32f6df2171e1dc687022368fcfbe812",
+            "publishedAt": "2023-02-16T01:25:34Z",
+            "content": "(Reuters) - Electric vehicle maker Tesla Inc has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, citing sources… [+1015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "Tesla sold out Model Y in US for this quarter - Electrek",
+            "description": "Electric vehicle maker Tesla Inc has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, citing sources familiar with the matter.The expected delivery date for the fully elect…",
+            "url": "https://www.channelnewsasia.com/business/tesla-sold-out-model-y-us-quarter-electrek-3282181",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--ax3EIRMu--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-02-16t012534z_1_lynxmpej1f01h_rtroptp_3_autos-tesla-repairs.jpg?itok=qGucEz73",
+            "publishedAt": "2023-02-16T01:25:34Z",
+            "content": "Electric vehicle maker Tesla Inc has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, citing sources familiar wi… [+948 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Tesla sold out Model Y in U.S. for this quarter - Electrek",
+            "description": "(marketscreener.com) Electric vehicle maker Tesla Inc has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, citing sources familiar with the matter.https://www.marketscreene…",
+            "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Tesla-sold-out-Model-Y-in-U-S-for-this-quarter-Electrek-43000424/?utm_medium=RSS&utm_content=20230216",
+            "urlToImage": "https://img.zonebourse.com/reuters/2022-09/2022-09-30T153347Z_1_LYNXMPEI8T0VJ_RTROPTP_3_TESLA-PRODUCTION-FORECAST.JPG",
+            "publishedAt": "2023-02-16T01:25:34Z",
+            "content": "The expected delivery date for the fully electric, mid-sized sports utility vehicle (SUV) to U.S. customers is now April-June 2023, the carmaker's website showed, while the delivery schedule for Mode… [+792 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Tesla sold out Model Y in U.S. for this quarter - Electrek",
+            "description": "The expected delivery date for the fully electric, mid-sized sports utility vehicle (SUV) to U.S. customers is now April-June 2023, the carmaker's website...",
+            "url": "https://finance.yahoo.com/news/tesla-sold-model-y-u-012534495.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/a32f6df2171e1dc687022368fcfbe812",
+            "publishedAt": "2023-02-16T01:25:34Z",
+            "content": "(Reuters) - Electric vehicle maker Tesla Inc has sold out its Model Y for this quarter in the United States, with no more production builds until April, Electrek reported on Wednesday, citing sources… [+1015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Tesla To Open US Charging Network To Rivals In $7.5 Billion Federal Program",
+            "description": "Tesla will open part of its U.S. charging network to electric vehicles (EVs) made by rivals as part of a $7.5 billion federal program to expand the use of EVs to cut carbon emissions, the Biden administration said on Wednesday. Reuters reports: Such a move co…",
+            "url": "https://hardware.slashdot.org/story/23/02/15/2231239/tesla-to-open-us-charging-network-to-rivals-in-75-billion-federal-program",
+            "urlToImage": "https://a.fsdn.com/sd/topics/power_64.png",
+            "publishedAt": "2023-02-16T01:25:00Z",
+            "content": "Such a move could help turn Tesla into the universal \"filling station\" of the EV era - and risk eroding a competitive edge for vehicles made by the company, which has exclusive access to the biggest … [+684 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "gizmodo.com",
+            "title": "Elon Says He’ll Finally Step Down as Twitter CEO, Just Give Him a Year",
+            "description": "Billionaire Twitter owner Elon Musk said he would finally let the blue bird app fly free under a new CEO, though only after we reach the end of 2023 after he finally manages to “stabilize the organization and just make sure it’s in a financially healthy place…",
+            "url": "https://biztoc.com/x/85d7be3865595000",
+            "urlToImage": "https://c.biztoc.com/p/85d7be3865595000/og.webp",
+            "publishedAt": "2023-02-16T01:22:11Z",
+            "content": "Billionaire Twitter owner Elon Musk said he would finally let the blue bird app fly free under a new CEO, though only after we reach the end of 2023 after he finally manages to stabilize the organiza… [+306 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Bloomberg",
+            "title": "Elon Musk nears worldâs richest title again",
+            "description": "The disclosure comes as Musk, 51, has narrowed the gap to Arnault to less than $1 billion amid signs of growing demand for Teslaâs electric vehicles.",
+            "url": "https://www.moneycontrol.com/news/world/elon-musk-nears-worlds-richest-title-again-10092861.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/05/Elon-Musk-1-770x433.jpg",
+            "publishedAt": "2023-02-16T01:11:59Z",
+            "content": "Elon Musk is closing in on recapturing his title as the worlds richest person since falling behind Bernard Arnault in December, thanks to Tesla Inc.s 74% rise this year.\r\nIt may take a bit longer for… [+2403 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CleanTechnica"
+            },
+            "author": "Steve Hanley",
+            "title": "Tesla Supercharger Network Will Be (Partially) Open To US Drivers By Next Year",
+            "description": "Tesla will permit other EV drivers in the US to use some of its Supercharger locations and double the size of its network by 2024.",
+            "url": "https://cleantechnica.com/2023/02/15/tesla-supercharger-network-will-be-partially-open-to-us-drivers-by-next-year/",
+            "urlToImage": "https://cleantechnica.com/files/2022/10/Tesla-Superchargers.jpeg",
+            "publishedAt": "2023-02-16T01:11:55Z",
+            "content": "Well, that was quick! Just 4 days ago, we reported that Tesla and the federal government were deep in discussions about how a.) at least some of the Tesla Supercharger network in the US could be made… [+6771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Businessinsider.de"
+            },
+            "author": "Daniel Hüfner",
+            "title": "„Absolute Clownshow“ – So reagiert das Netz auf den neuen Thelen-Fonds",
+            "description": "Trotz Kursverlusten bei seinem ersten Aktienfonds legt Frank Thelen ein neues Finanzvehikel auf. Bei Anlegern kommt das bedingt gut an.",
+            "url": "https://www.businessinsider.de/gruenderszene/business/frank-thelen-10xdna-neuer-fonds-kritik-a/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2023/02/frank-thelen-10xdna-neuer-fonds-small-mid-cap-technologies-scaled.jpg?ver=1676366338",
+            "publishedAt": "2023-02-16T01:10:00Z",
+            "content": "Absolute Clownshow So reagiert das Netz auf den neuen Thelen-Fonds\r\nTrotz massiver Kursverluste bei seinem ersten Tech-Aktienfonds legt Investor Frank Thelen ein weiteres Finanzvehikel auf. Bei Anleg… [+3946 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnnbrasil.com.br"
+            },
+            "author": "Paul R. La Monica",
+            "title": "Investidor de 99 anos diz que prefere ações de grandes bancos e odeia criptos",
+            "description": "Vice-presidente da Berkshire Hathaway, Charlie Munger, tem sido um crítico significativo das criptomoedas e continuou seu ataque aos ativos digitais nesta quarta-feira (15)",
+            "url": "https://www.cnnbrasil.com.br/business/investidor-de-99-anos-diz-que-prefere-acoes-de-grandes-bancos-e-odeia-criptos/",
+            "urlToImage": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/43896_4C7BB3B674E01524.jpg?w=1200",
+            "publishedAt": "2023-02-16T01:05:48Z",
+            "content": "Charlie Munger, vice-presidente da Berkshire Hathaway, de 99 anos, e amigo de longa data e parceiro de negócios de Warren Buffett, disse que ainda é fã de muitas ações de grandes bancos, mesmo com a … [+3368 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Tesla, Shopify, Roku, Twilio, Quantumscape: Why These 5 Stocks Are Drawing Investors' Attention Today",
+            "description": "Major Wall Street indices closed in the green on Wednesday despite an initial dip following the release of the January retail sales figure that showed the economy is still running hot and indicated the Federal Reserve will have to continue its rate hikes for …",
+            "url": "https://biztoc.com/x/fef6170f7129ceb4",
+            "urlToImage": "https://c.biztoc.com/152/og.png",
+            "publishedAt": "2023-02-16T01:02:07Z",
+            "content": "Major Wall Street indices closed in the green on Wednesday despite an initial dip following the release of the January retail sales figure that showed the economy is still running hot and indicated t… [+302 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "Joe Wituschek",
+            "title": "Elon Musk plans to step down as CEO of Twitter by the end of this year",
+            "description": "Elon Musk says that he plans to find someone else to run Twitter by the end of this year, but we all know how best-laid …\nThe post Elon Musk plans to step down as CEO of Twitter by the end of this year appeared first on BGR.",
+            "url": "https://bgr.com/business/elon-musk-plans-to-step-down-as-ceo-of-twitter-by-the-end-of-this-year/",
+            "urlToImage": "https://bgr.com/wp-content/uploads/2022/07/rsz_gettyimages-1229893385.jpg?quality=82&strip=all",
+            "publishedAt": "2023-02-16T01:00:00Z",
+            "content": "Elon Musk says that he plans to find someone else to run Twitter by the end of this year, but we all know how best-laid plans go!\r\nAs reported by Bloomberg, the Tesla/SpaceX/Twitter CEO was virtually… [+1679 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Adam Ismail",
+            "title": "Mini Introduces the Only Convertible EV You Can Buy, But *You* Probably Can't Buy It",
+            "description": "The Mini Cooper SE continues to be an affordable entryway into all-electric motoring that nobody really talks about. I drove one a little more than a year ago, and it was fine — totally fine. But Mini is hoping to reinvigorate the conversation with a drop-top…",
+            "url": "https://jalopnik.com/mini-cooper-se-only-electric-car-convertible-today-1850119735",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7936cb4a1cf29cfa970d487e4eb87ece.jpg",
+            "publishedAt": "2023-02-16T01:00:00Z",
+            "content": "The Mini Cooper SE continues to be an affordable entryway into all-electric motoring that nobody really talks about. I drove one a little more than a year ago, and it was fine totally fine. But Mini … [+2013 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thairath.co.th"
+            },
+            "author": "Thairath",
+            "title": "รถยนต์ไฟฟ้าในไทย 2023 ทิศทางเป็นอย่างไร พูดคุยกับผู้ใช้งานกลุ่มแรก",
+            "description": "รถยนต์ไฟฟ้าเป็นทางออกของการใช้พลังงานสะอาด ลดการปล่อยก๊าซคาร์บอนไดออกไซด์สู่ชั้นบรรยากาศ อันเป็นเหตุภาวะโลกร้อน ประเทศที่เห็นความสำคัญของการจัดการพลังงานเริ่มผลักดันการใช้รถยนต์ไฟฟ้า",
+            "url": "https://www.thairath.co.th/lifestyle/auto/2630531",
+            "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa5BwGkVU33JiCI217L4jazq5C9wumktw0AAXVovA32kilkRdYLOL.jpg",
+            "publishedAt": "2023-02-16T00:52:37Z",
+            "content": "2023Captain DIY TiY\r\n“Captain DIY” 2 Tesla “TiY” Test Drive \r\n : “ Autopilot Landing Take off \r\n ”\r\n TiY :\r\n : “ \r\n ”\r\n TiY : “ Autopilot Unknown Factor Blind Spot Detection (BSD) 1 BSD ”\r\n : “ Tesla… [+789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SlashGear"
+            },
+            "author": "staff@slashgear.com (Matt Salter)",
+            "title": "Cadillac Plots Three Additional EVs For 2023",
+            "description": "The General Motors brand many customers associate with old-school indulgence expects to debut three new electric Caddies over the course of 2023.",
+            "url": "https://www.slashgear.com/1201318/cadillac-plots-three-additional-evs-for-2023/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/cadillac-plots-three-additional-evs-for-2023/l-intro-1676508392.jpg",
+            "publishedAt": "2023-02-16T00:50:43Z",
+            "content": "We don't know much about the actual vehicles set to bear the Cadillac shield in the ongoing Electric Revolution. As yet, Cadillac hasn't even released their names. Also, Cadillac's current attempt at… [+1216 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ben Stupples and Sophie Alexander",
+            "title": "Elon Musk Nears World’s Richest Title Again",
+            "description": "(Bloomberg) -- Elon Musk is closing in on recapturing his title as the world’s richest person since falling behind Bernard Arnault in December, thanks to...",
+            "url": "https://finance.yahoo.com/news/elon-musk-nears-world-richest-133728442.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dTauLe3d846__VPRVbrvAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODI-/https://media.zenfs.com/en/bloomberg_markets_842/83de8f743c2e8dff9d7272fdf6f9f93d",
+            "publishedAt": "2023-02-16T00:49:28Z",
+            "content": "(Bloomberg) -- Elon Musk is closing in on recapturing his title as the worlds richest person since falling behind Bernard Arnault in December, thanks to Tesla Inc.s 74% rise this year.\r\nMost Read fro… [+2658 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CleanTechnica"
+            },
+            "author": "Guest Contributor",
+            "title": "Celebrating 15 Years Of Tesla Production & The EV",
+            "description": "Tesla has officially been on the road for 15 years since the first Roadster rolled off the production line on February 1, 2008, and what a decade and a half it has been. In that time, Tesla has gone from a niche startup auto manufacturer to the innovating for…",
+            "url": "https://cleantechnica.com/2023/02/15/celebrating-15-years-of-tesla-production-the-ev/",
+            "urlToImage": "https://cleantechnica.com/files/2022/09/Tesla-Roadster-David-Havasi.jpeg",
+            "publishedAt": "2023-02-16T00:45:21Z",
+            "content": "Tesla has officially been on the road for 15 years since the first Roadster rolled off the production line on February 1, 2008, and what a decade and a half it has been. In that time, Tesla has gone … [+3230 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Reuters",
+            "title": "Tesla to open US charging network to rivals in $7.5 billion federal program",
+            "description": "The move could help turn Tesla into the universal &quot;filling station&quot; of the EV era - and risk eroding a competitive edge for vehicles made by the company, which has exclusive access to the biggest network of high-speed Superchargers in the United Sta…",
+            "url": "https://www.moneycontrol.com/news/world/tesla-to-open-us-charging-network-to-rivals-in-7-5-billion-federal-program-10092811.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/07/Tesla-770x433.jpg",
+            "publishedAt": "2023-02-16T00:39:02Z",
+            "content": "Tesla Inc will open part of its U.S. charging network to electric vehicles (EVs) made by rivals as part of a $7.5 billion federal program to expand the use of EVs and cut carbon emissions.\r\nThe move … [+3754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclockers.ru"
+            },
+            "author": "goldas",
+            "title": "Ford приостановил производство и поставки F-150 Lightning",
+            "description": "Сообщается, что проблема связана с аккумуляторными батареями",
+            "url": "https://overclockers.ru/blog/goldas/show/86044/ford-priostanovil-proizvodstvo-i-postavki-f-150-lightning",
+            "urlToImage": "https://overclockers.ru/st/legacy/blog/360392/358587_O.png",
+            "publishedAt": "2023-02-16T00:38:03Z",
+            "content": "Ford Ford F-150 Lightning. Ford CNBC, . , .\r\n Ford - , , , . , .\r\n  Lightning SK On, .\r\n  The New York Times, Ford Tesla. 200000 EV, 20002400 . Ford , .\r\n  Ford 3,5 -- (LFP) , . , BlueOval Battery Pa… [+87 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Reuters",
+            "title": "SP 500 ends higher after strong retail sales data",
+            "description": "A Commerce Department report showed retail sales surged 3% in January as purchases of motor vehicles and other goods pushed the number well past the 1.8% estimate from economists polled by Reuters.",
+            "url": "https://www.moneycontrol.com/news/business/markets/sp-500-ends-higher-after-strong-retail-sales-data-10092801.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/11/NYSEwall-street-770x433.jpg",
+            "publishedAt": "2023-02-16T00:34:19Z",
+            "content": "The S&amp;P 500 ended higher on Wednesday after stronger-than-expected retail sales data offered evidence of resilience in the U.S. economy, but gains were capped as investors worried about more inte… [+2775 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "marketbeat.com",
+            "title": "Tesla Employees in New York Are Looking to Unionize",
+            "description": "Workers at a Tesla factory in Buffalo, New York, announced on Tuesday they intend to form a union. \"The group wants to form a union \"that looks to be as innovative as the company we work for,\" the group, Tesla Workers United, said in a statement posted online…",
+            "url": "https://biztoc.com/x/75ff848a10cfb625",
+            "urlToImage": "https://c.biztoc.com/p/75ff848a10cfb625/og.webp",
+            "publishedAt": "2023-02-16T00:32:09Z",
+            "content": "Workers at a Tesla factory in Buffalo, New York, announced on Tuesday they intend to form a union.\"The group wants to form a union \"that looks to be as innovative as the company we work for,\" the gro… [+320 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Purpose Investments Inc.",
+            "title": "Purpose Investments Inc. Announces February 2023 Distributions",
+            "description": "TORONTO, Feb. 15, 2023 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of February 2023 for its...",
+            "url": "https://finance.yahoo.com/news/purpose-investments-inc-announces-february-003000560.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/OwsqVxFnIyD4BXHqvk4Fog--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Nzc-/https://media.zenfs.com/da/globenewswire.com/ca68d7c660d4a63860be9c2e8901c158",
+            "publishedAt": "2023-02-16T00:30:00Z",
+            "content": "TORONTO, Feb. 15, 2023 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (Purpose) is pleased to announce distributions for the month of February 2023 for its open-end exchange-traded funds and closed-end… [+10875 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Purpose Investments Inc.",
+            "title": "Purpose Investments Inc. Announces February 2023 Distributions",
+            "description": "TORONTO, Feb. 15, 2023 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (“Purpose”) is pleased to announce distributions for the month of February 2023 for its open-end exchange-traded funds and closed-end funds (“the Funds”).",
+            "url": "https://www.globenewswire.com/news-release/2023/02/16/2609275/0/en/Purpose-Investments-Inc-Announces-February-2023-Distributions.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/a28192cb-6294-4424-8c24-646fee2c81cd?size=1",
+            "publishedAt": "2023-02-16T00:30:00Z",
+            "content": "TORONTO, Feb. 15, 2023 (GLOBE NEWSWIRE) -- Purpose Investments Inc. (Purpose) is pleased to announce distributions for the month of February 2023 for its open-end exchange-traded funds and closed-end… [+10249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": "Michelle Lewis",
+            "title": "An offshore wind farm and a carbon capture project are at a stalemate",
+            "description": "Ørsted’s huge Hornsea Four offshore wind project and a BP-led carbon capture project are at loggerheads because the two projects’ footprints are overlapping in the North Sea.\n more…\nThe post An offshore wind farm and a carbon capture project are at a stalemat…",
+            "url": "https://electrek.co/2023/02/15/an-offshore-wind-farm-and-a-carbon-capture-project-are-at-a-stalemate/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Hornsea-Four-Orsted.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-16T00:28:29Z",
+            "content": "Ørsted’s huge Hornsea Four offshore wind project and a BP-led carbon capture project are at loggerheads because the two projects’ footprints are overlapping in the North Sea.\r\nThe Endurance carbon ca… [+3021 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Boston Globe"
+            },
+            "author": null,
+            "title": "Waters buys California company",
+            "description": "Stories you may have missed from the world of business.",
+            "url": "https://www.bostonglobe.com/2023/02/15/business/waters-buys-california-company/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/L6MPR-QZ5uLTM77RYYo1Ejk9snQ=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/UVPXVKFRIE533FYMGW5ZIBY2SU.jpg",
+            "publishedAt": "2023-02-16T00:27:49Z",
+            "content": "LAB EQUIPMENT\r\nWaters Corp., the Milford-based lab equipment manufacturer, has signed an agreement for its largest-ever acquisition: the nearly $1.4 billion purchase of privately held Wyatt Technolog… [+6912 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "feedfeeder",
+            "title": "Charlie Munger says BYD is so far ahead of Tesla in China 'it's almost ridiculous' - CNBC",
+            "description": "Charlie Munger says BYD is so far ahead of Tesla in China 'it's almost ridiculous'CNBC Charlie Munger: 'I'm not proud of my country' for allowing 'crypto sh-t'Yahoo Finance Charlie Munger weighs in on ChatGPT3: Artificial intelligence is not going to cure can…",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=170350337",
+            "urlToImage": null,
+            "publishedAt": "2023-02-16T00:13:10Z",
+            "content": "\"Bond reflected that good Americans were fine people and that most of them\r\nseemed to come from Texas.\"\r\n- Ian Fleming, \"Casino Royale\""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Stocks end higher after strong retail sales data",
+            "description": "(marketscreener.com) STORY: U.S. stocks ended higher on Wednesday after stronger-than-expected retail sales data offered evidence of a resilient economy, but gains were capped as investors worried about more interest rate hikes by the Federal Reserve.https://…",
+            "url": "https://www.marketscreener.com/news/latest/Stocks-end-higher-after-strong-retail-sales-data--43000368/?utm_medium=RSS&utm_content=20230216",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2023-02-16T00:12:11Z",
+            "content": "The Dow closed up fractionally, the S&amp;P gained about three-tenths of a percent and the Nasdaq climbed just shy of one percent.\r\nA Commerce Department report showed retail sales rebounded strongly… [+1278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "New Biden EV charger rules stress Made In America, force Tesla changes",
+            "description": "New Biden EV charger rules stress Made In America, force Tesla changes",
+            "url": "https://www.investing.com/news/stock-market-news/instant-view-new-biden-ev-charger-rules-stress-made-in-america-force-tesla-changes-3004591",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEE250OB_L.jpg",
+            "publishedAt": "2023-02-16T00:10:44Z",
+            "content": "(Reuters) - The Biden administration on Wednesday issued long-awaited final rules on its national electric vehicle charger network that require chargers to be built in the United States immediately, … [+3999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "cnbc.com",
+            "title": "Charlie Munger says BYD is so far ahead of Tesla in China it's almost ridiculous",
+            "description": "Charlie Munger said Wednesday that Tesla pales in comparison to BYD in China, calling the Chinese electric vehicle maker his favorite stock ever. \"I have never helped do anything at Berkshire [Hathaway] that was as good as BYD and I only did it once,\" the 99-…",
+            "url": "https://biztoc.com/x/0c33a8b683f3ddef",
+            "urlToImage": "https://c.biztoc.com/p/0c33a8b683f3ddef/og.webp",
+            "publishedAt": "2023-02-16T00:10:08Z",
+            "content": "Charlie Munger said Wednesday that Tesla pales in comparison to BYD in China, calling the Chinese electric vehicle maker his favorite stock ever. \"I have never helped do anything at Berkshire [Hathaw… [+310 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vnexpress.net"
+            },
+            "author": "VnExpress",
+            "title": "Elon Musk nói chỉ làm CEO Twitter đến hết năm",
+            "description": "Tỷ phú Mỹ nói ông cần thời gian còn lại trong năm để ổn định mọi thứ tại Twitter trước khi bàn giao cho một giám đốc điều hành mới.",
+            "url": "https://vnexpress.net/elon-musk-noi-chi-lam-ceo-twitter-den-het-nam-4571124.html",
+            "urlToImage": "https://vcdn1-sohoa.vnecdn.net/2023/02/16/a1-1676505796-4889-1676505800.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LSwj9pB73Nrjf-7SpdURRQ",
+            "publishedAt": "2023-02-16T00:04:06Z",
+            "content": "T phú M nói ông cn thi gian còn li trong nm n nh mi th ti Twitter trc khi bàn giao cho mt giám c iu hành mi.\"Tôi cn n nh t chc, m bo tình hình tài chính n nh và có l trình sn phm mi rõ ràng\", Elon Mu… [+1591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "newsbtc.com",
+            "title": "Floki Inu Soars 58.43% After Posting Elon Musk’s Tweet",
+            "description": "Floki Inu, a popular meme cryptocurrency, surged 45% following a tweet posted by Elon Musk, CEO of Tesla, Twitter, and SpaceX, on Wednesday. Related Reading: Meme Coin Wars – Floki Inu Vs. Dogecoin And Shiba Inu – Who Wins? Meme tokens such as Dogecoin have a…",
+            "url": "https://biztoc.com/x/d722e550ba94ad0a",
+            "urlToImage": "https://c.biztoc.com/p/d722e550ba94ad0a/og.webp",
+            "publishedAt": "2023-02-16T00:04:05Z",
+            "content": "Floki Inu, a popular meme cryptocurrency, surged 45% following a tweet posted by Elon Musk, CEO of Tesla, Twitter, and SpaceX, on Wednesday.Related Reading: Meme Coin Wars Floki Inu Vs. Dogecoin And … [+278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vnexpress.net"
+            },
+            "author": "VnExpress",
+            "title": "Đổ tiền tố công nghệ của Tesla sai sót",
+            "description": "Mỹ- Một trong những nhà phê bình lớn nhất của hãng xe điện, một kỹ sư công nghệ an toàn, bỏ tiền túi để chạy quảng cáo chống lại Tesla.",
+            "url": "https://vnexpress.net/do-tien-to-cong-nghe-cua-tesla-sai-sot-4570717.html",
+            "urlToImage": "https://i2-vnexpress.vnecdn.net/2023/02/15/ezgif3bda7c366a4-1676430850-2815-1676430969.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=3Beg3mDUPTNksoV38TFeyA&t=image",
+            "publishedAt": "2023-02-16T00:03:00Z",
+            "content": "MMt trong nhng nhà phê bình ln nht ca hãng xe in, mt k s công ngh an toàn, b tin túi chy qung cáo chng li Tesla.Dan O'Dowd, mt k s công ngh an toàn, nhà sáng lp kiêm CEO công ty phn mm Green Hills So… [+2790 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Rhett Power, Contributor, \n Rhett Power, Contributor\n https://www.forbes.com/sites/rhettpower/",
+            "title": "Extending The Human Life Span By A Decade Within A Decade",
+            "description": "Can precision genomics, AI, and a new perspective on preventive medicine achieve  extending the human life span by a decade within a decade?",
+            "url": "https://www.forbes.com/sites/rhettpower/2023/02/15/extending-the-human-life-span-by-a-decade-within-a-decade/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63ed6f14213030dedb2ed0fc/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-15T23:52:51Z",
+            "content": "A group of people on a DNA profile\r\ngetty\r\nCan Precision Genomics, AI, and a New Perspective on Preventive Medicine Achieve This? \r\nHealthcare is constantly evolving around the world as scientists an… [+9936 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Elon Musk's Plan To Open Tesla's Charging Network A \"Big Deal\": Joe Biden",
+            "description": "U.S. President Joe Biden on Wednesday praised the plan by Tesla Inc Chief Executive Elon Musk to open part of its electric vehicle charging network, saying the move is a \"big deal\" and will \"make a big difference.\"",
+            "url": "https://www.ndtv.com/world-news/biden-praises-musk-plan-to-open-teslas-charging-network-says-it-is-a-big-deal-3786642",
+            "urlToImage": "https://c.ndtvimg.com/2022-10/28kallng_joe-biden-afp_625x300_01_October_22.jpg",
+            "publishedAt": "2023-02-15T23:43:16Z",
+            "content": "7,500 new and existing Superchargers and Destination Chargers by late 2024 (Representational)\r\nWashington: U.S. President Joe Biden on Wednesday praised the plan by Tesla Inc Chief Executive Elon Mus… [+1460 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Biden praises Musk plan to open Tesla's charging network, says it is a 'big deal' | Reuters",
+            "description": "U.S. President Joe Biden on Wednesday praised the plan by Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> Chief Executive Elon Musk to open part of its electric vehicle charging network, saying the move is a \"big deal…",
+            "url": "https://www.reuters.com/technology/biden-praises-musk-plan-open-teslas-charging-network-says-it-is-big-deal-2023-02-15/",
+            "urlToImage": "https://www.reuters.com/resizer/4aPpmJxg5Jf7Dp31hARM54co8lc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XVK3LHWKCJO7HG2772Y7PQRZ64.jpg",
+            "publishedAt": "2023-02-15T23:43:04Z",
+            "content": "Feb 15 (Reuters) - U.S. President Joe Biden on Wednesday praised the plan by Tesla Inc (TSLA.O) Chief Executive Elon Musk to open part of its electric vehicle charging network, saying the move is a \"… [+1014 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Erickimphotography.com"
+            },
+            "author": "ERIC KIM",
+            "title": "Real men drive gasoline cars.",
+            "description": "The average Tesla driver is either a woman, a mom, or an emasculated man. The best gasoline car is probably a Hyundai sonata.",
+            "url": "https://erickimphotography.com/blog/2023/02/15/real-men-drive-gasoline-cars/",
+            "urlToImage": "https://i0.wp.com/erickimphotography.com/blog/wp-content/uploads/2023/01/cropped-D2963802-55E1-4618-BA12-970BA3559F1F.webp?fit=512%2C512&ssl=1",
+            "publishedAt": "2023-02-15T23:42:39Z",
+            "content": "The average Tesla driver is either a woman, a mom, or an emasculated man.\r\nThe best gasoline car is probably a Hyundai sonata."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNA"
+            },
+            "author": null,
+            "title": "Biden praises Musk plan to open Tesla's charging network, says it is a 'big deal'",
+            "description": "U.S. President Joe Biden on Wednesday praised the plan by Tesla Inc Chief Executive Elon Musk to open part of its electric vehicle charging network, saying the move is a \"big deal\" and will \"make a big difference.\" The tweet is a sign of improving relationshi…",
+            "url": "https://www.channelnewsasia.com/business/biden-praises-musk-plan-open-teslas-charging-network-says-it-big-deal-3282006",
+            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--F0d5kd8_--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-02-15t234229z_1_lynxmpej1e13z_rtroptp_3_tesla-suppliers.jpg?itok=evWBfZJ7",
+            "publishedAt": "2023-02-15T23:42:29Z",
+            "content": "U.S. President Joe Biden on Wednesday praised the plan by Tesla Inc Chief Executive Elon Musk to open part of its electric vehicle charging network, saying the move is a \"big deal\" and will \"make a b… [+804 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Biden praises Musk plan to open Tesla's charging network, says it is a 'big deal'",
+            "description": "The tweet is a sign of improving relationships between Biden and Musk, who previously complained about being ignored.  \"In building our EV charging network, ...",
+            "url": "https://finance.yahoo.com/news/biden-praises-musk-plan-open-234229903.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/9511274c5c80847d4cfce602edd2e09c",
+            "publishedAt": "2023-02-15T23:42:29Z",
+            "content": "(Reuters) - U.S. President Joe Biden on Wednesday praised the plan by Tesla Inc Chief Executive Elon Musk to open part of its electric vehicle charging network, saying the move is a \"big deal\" and wi… [+946 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Electrek"
+            },
+            "author": "Fred Lambert",
+            "title": "Tesla (TSLA) is sold out of Model Y for the quarter",
+            "description": "Tesla has sold out the Model Y for the quarter in the US with no more production builds until April, even though we are just halfway through the quarter.\n more…\nThe post Tesla (TSLA) is sold out of Model Y for the quarter appeared first on Electrek.",
+            "url": "https://electrek.co/2023/02/15/tesla-tsla-sold-out-model-y-quarter/",
+            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/2022-Tesla-prices-Model-Y.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-15T23:41:51Z",
+            "content": "Tesla has sold out the Model Y for the quarter in the US with no more production builds until April, even though we are just halfway through the quarter.\r\nWith the significant price drops and the new… [+1980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Biden praises Musk plan to open Tesla's charging network, says it is a 'big deal'",
+            "description": "(marketscreener.com) U.S. President Joe Biden on Wednesday\npraised the plan by Tesla Inc Chief Executive Elon Musk\nto open part of its electric vehicle charging network, saying\nthe move is a \"big deal\" and will \"make a big difference.\"\n The tweet is a sign of…",
+            "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Biden-praises-Musk-plan-to-open-Tesla-s-charging-network-says-it-is-a-big-deal-43000188/?utm_medium=RSS&utm_content=20230215",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2023-02-15T23:32:46Z",
+            "content": "Feb 15 (Reuters) - U.S. President Joe Biden on Wednesday\r\npraised the plan by Tesla Inc Chief Executive Elon Musk\r\nto open part of its electric vehicle charging network, saying\r\nthe move is a \"big de… [+967 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "marketplace.org",
+            "title": "Why Tesla is opening its charging network to other EVs",
+            "description": "On Wednesday, the White House took additional steps toward making the great American road trip an electric one. President Joe Biden wants 500,000 EV charging stations on U.S. highways by 2030. Currently, his administration estimates, there are 130,000. One of…",
+            "url": "https://biztoc.com/x/65eb5d4daf74d55d",
+            "urlToImage": "https://c.biztoc.com/p/65eb5d4daf74d55d/og.webp",
+            "publishedAt": "2023-02-15T23:32:04Z",
+            "content": "On Wednesday, the White House took additional steps toward making the great American road trip an electric one. President Joe Biden wants 500,000 EV charging stations on U.S. highways by 2030. Curren… [+311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Cal Jeffrey",
+            "title": "Biden administration mandates EV chargers be standardized to be eligible for federal funding",
+            "description": "The Bipartisan Infrastructure Law of 2021 (BIL) earmarked $350 billion for funding highway improvement projects through 2026. Of those funds, $7.5 billion is allocated to increasing the number of EV chargers across the US, with the Federal Highway Administrat…",
+            "url": "https://www.techspot.com/news/97624-biden-administration-mandates-ev-chargers-standardized-eligible-federal.html",
+            "urlToImage": "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-15-image-22.jpg",
+            "publishedAt": "2023-02-15T23:32:00Z",
+            "content": "In a nutshell: The multibillion-dollar infrastructure bill passed in 2021 is seeing some changes to how its funds are allocated. The emphasis is to incentives car companies, including Tesla, to stand… [+2778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Brandon Vigliarolo",
+            "title": "Musk says he ain't going anywhere as Twitter CEO until at least late 2023",
+            "description": "Ignoring poll results is the new craze for some. At least that's daily entertainment guaranteed now\nVideo Sorry, Tesla investors who want him back on the job: Elon Musk said he thinks it's going to take until the end of 2023 to stabilize Twitter to the point …",
+            "url": "https://www.theregister.com/2023/02/15/musk_twitter_ceo/",
+            "urlToImage": "https://regmedia.co.uk/2021/03/26/shutterstock_elon_musk.jpg",
+            "publishedAt": "2023-02-15T23:30:10Z",
+            "content": "Video Sorry, Tesla investors who want him back on the job: Elon Musk said he thinks it's going to take until the end of 2023 to stabilize Twitter to the point where he can appoint someone else as CEO… [+3295 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blognone.com"
+            },
+            "author": "mk",
+            "title": "Elon Musk บอกจะหาตัวซีอีโอ Twitter ช่วงปลายปี 2023 หลังสถานการณ์บริษัทเสถียรแล้ว",
+            "description": "Elon Musk ไปพูดที่งาน World Government Summit ที่ดูไบผ่านวิดีโอคอนเฟอเรนซ์ เล่าถึง Twitter ว่าอยู่ระหว่างการปรับองค์กรให้เสถียร และกำลังวางแผนพัฒนาผลิตภัณฑ์ กับทำให้สถานะทางการเงินแข็งแรง ซึ่งน่าจะใช้เวลาจนถึงสิ้นปี 2023 และเขาจึงจะหาตัวซีอีโอมาทำหน้าที่แทน\r\n…",
+            "url": "https://www.blognone.com/node/132648",
+            "urlToImage": "https://www.blognone.com/sites/default/files/externals/4fe2948b8e7e0a3017083cf4bc3aebf6.jpg",
+            "publishedAt": "2023-02-15T23:29:06Z",
+            "content": "Elon Musk World Government Summit Twitter 2023 \r\nElon 2022 3 Twitter, SpaceX, Tesla SpaceX Tesla 2017-2019 \r\n - Bloomberg"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "The Daily Caller",
+            "title": "Tesla To Receive Federal Cash After Agreeing To Universalize Thousands Of Its EV Charging Stations",
+            "description": "Tesla now qualifies for federal subsidies after agreeing to universalize a portion of its nearly 17,000 electric vehicle (EV) chargers to assist the Biden administration’s goal of 500,000 EV chargers by 2030, according to Axios... Of the $25 billion for EVs, …",
+            "url": "https://freerepublic.com/focus/f-chat/4131348/posts",
+            "urlToImage": null,
+            "publishedAt": "2023-02-15T23:28:30Z",
+            "content": "Skip to comments.\r\nTesla To Receive Federal Cash After Agreeing To Universalize Thousands Of Its EV Charging Stations\r\nThe Daily Caller ^\r\n | 15Feb\r\n | Winslow\r\nPosted on 02/15/2023 3:28:30 PM PST by… [+1842 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Isabel Vincent",
+            "title": "Chinese spies co-opted local private investigators, federal agents for info on dissidents",
+            "description": "As US officials remain on high alert for spy balloons in the skies over North America, Chinese government operatives have already tapped into a network of local private investigators and federal agents to illegally obtain intelligence on the ground, according…",
+            "url": "https://nypost.com/2023/02/15/chinas-spies-have-used-local-private-investigators-for-years-to-watch-dissidents/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/chinas-private-eyes.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-02-15T23:25:32Z",
+            "content": "As US officials remain on high alert for spy balloons in the skies over North America, Chinese government operatives have already tapped into a network of local private investigators and federal agen… [+6312 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chosun.com"
+            },
+            "author": "VOA News( )",
+            "title": "Elon Musk Hopes to Have Twitter CEO Toward the End of Year",
+            "description": "Billionaire Elon Musk said Wednesday that he anticipates finding a CEO for Twitter \"probably toward the end of this year.\"Speaking via a video call to the World Government Summit in Dubai, Musk said making sure the platform can function remained the most impo…",
+            "url": "https://english.chosun.com/site/data/html_dir/2023/02/16/2023021600649.html",
+            "urlToImage": "https://english.chosun.com/site/data/img_dir/2023/02/16/2023021600647_0.jpg",
+            "publishedAt": "2023-02-15T23:12:50Z",
+            "content": "Billionaire Elon Musk said Wednesday that he anticipates finding a CEO for Twitter \"probably toward the end of this year.\"\r\nSpeaking via a video call to the World Government Summit in Dubai, Musk sai… [+3951 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "techcrunch.com",
+            "title": "Daily Crunch: Generative AI search engine startup You.com adds multimodal chat",
+            "description": "To get a roundup of TechCrunch’s biggest and most important stories delivered to your inbox every day at 3 p.m. PST, subscribe here. Hello, and welcome to Hump Day! We’ve got a ton of amazing stories for you. Some are even about You. Have you always wanted to…",
+            "url": "https://biztoc.com/x/bb65b6d2cc6a065c",
+            "urlToImage": "https://c.biztoc.com/p/bb65b6d2cc6a065c/og.webp",
+            "publishedAt": "2023-02-15T23:10:06Z",
+            "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PST, subscribe here.Hello, and welcome to Hump Day! Weve got a ton of amazing stories fo… [+310 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Daily Crunch: Generative AI search engine startup You.com adds multimodal chat",
+            "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package. Daily Crunch: Generative AI search engine startup You.com adds multimodal chat by Christine Hall originally published",
+            "url": "https://techcrunch.com/2023/02/15/daily-crunch-generative-ai-search-engine-startup-you-com-adds-multimodal-chat/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1236470443-1.jpg?resize=1200,800",
+            "publishedAt": "2023-02-15T23:05:23Z",
+            "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PST, subscribe here.\r\nHello, and welcome to Hump Day! Weve got a ton of amazing stories … [+4993 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Trouw.nl"
+            },
+            "author": "Esther Bijlo",
+            "title": "Onrust over het klimaat voorkomen? Maak het klimaatbeleid rechtvaardig, stelt adviesraad",
+            "description": "Burgers vinden rechtvaardig klimaatbeleid belangrijker dan maximale afname van CO2-uitstoot. Maar of het beleid eerlijk is, komt vaak helemaal niet...",
+            "url": "https://www.trouw.nl/duurzaamheid-economie/onrust-over-het-klimaat-voorkomen-maak-het-klimaatbeleid-rechtvaardig-stelt-adviesraad~b86ae26b/",
+            "urlToImage": "https://images0.persgroep.net/rcs/wGjZoGnsF2-sgPT6G7FijRSQiI0/diocontent/223232009/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8",
+            "publishedAt": "2023-02-15T23:01:00Z",
+            "content": "Er is veel te weinig aandacht voor de vraag of klimaatbeleid rechtvaardig is. Dat moet anders, stelt de Wetenschappelijke Raad voor het Regeringsbeleid (WRR) in een nieuw rapport. Voor het draagvlak … [+4303 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "cnn.com",
+            "title": "Production halt on Ford's electric F-150 Lightning will last at least a week and half",
+            "description": "Ford recently stopped production on the electric F-150 Lightning pickup because of a possible battery problem. A Ford spokesperson now says a return to production “could take a few weeks.” The potential issue was discovered during the automaker’s pre-delivery…",
+            "url": "https://biztoc.com/x/570b64d5d37f4916",
+            "urlToImage": "https://c.biztoc.com/p/570b64d5d37f4916/og.webp",
+            "publishedAt": "2023-02-15T23:00:11Z",
+            "content": "Ford recently stopped production on the electric F-150 Lightning pickup because of a possible battery problem. A Ford spokesperson now says a return to production could take a few weeks.The potential… [+281 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vnexpress.net"
+            },
+            "author": "VnExpress",
+            "title": "Đội ngũ công nhân giá rẻ phía sau robot, AI",
+            "description": "AI được cho là sẽ lấy đi công việc của con người, nhưng đằng sau các hệ thống đó vẫn cần người vận hành với chi phí 0,9 USD/giờ.",
+            "url": "https://vnexpress.net/doi-ngu-cong-nhan-gia-re-phia-sau-robot-ai-4570036.html",
+            "urlToImage": "https://vcdn1-sohoa.vnecdn.net/2023/02/13/screenshot-2023-02-13-at-16-49-4507-4830-1676281918.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=GBynpYOBNvyt5RULhQrtrQ",
+            "publishedAt": "2023-02-15T23:00:00Z",
+            "content": "AI c cho là s ly i công vic ca con ngi, nhng ng sau các h thng ó vn cn ngi vn hành vi chi phí 0,9 USD/gi.Ra mt cui tháng 11/2022, ChatGPT ang gây bão toàn cu và làm n ra nhiu cuc tranh lun sôi ni v t… [+4291 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "岡本玄介",
+            "title": "テスラの工場で働く巨大ロボ・アームの名は「ゴジラ」だって！",
+            "description": "Image:Twitterご丁寧にイラスト付き。電気自動車のTESLA（テスラ）が、ドイツに建てた工場「ギガファクトリー・ベルリン」。彼らは大型のプレス機を用い、車体の外装を一気に成形することでパーツ数を減らす工夫をしています。ひいては設備に対する投資も削減され、従来の自動車より生産ラインが効率化したのだそうです。ロボット・アームがたくさんの工場内そうした作業を支えるのが、ロボット・アームの数々。",
+            "url": "https://www.gizmodo.jp/2023/02/godzilla-robot-arm.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/02/15/230216_tesla.jpg?w=1280&h=630&f=jpg",
+            "publishedAt": "2023-02-15T23:00:00Z",
+            "content": "TESLA\r\n137300t116\r\n13 different body parts are stamped with a total of 7300 tons of force, in a press line that runs at up to 16 parts per minute pic.twitter.com/gSAynANrAx\r\n Tesla (@Tesla) February … [+341 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Idnes.cz"
+            },
+            "author": "https://www.facebook.com/iDNES.cz",
+            "title": "Brusel chce v roce 2030 čisté městské busy a zásadní omezení emisí náklaďáků",
+            "description": "Nové těžké nákladní vozy vyráběné v Evropské unii by měly od roku 2030 postupně omezovat emise oxidu uhličitého a v roce 2040 je snížit o 90 procent proti roku 2019. Všechny nové městské autobusy by zároveň měly od roku 2030 být zcela bezemisní.",
+            "url": "https://www.idnes.cz/auto/zpravodajstvi/evropska-komise-nakladak-kamion-nakladni-auto-autobus-emise-elektromobil.A230214_194050_automoto_fdv",
+            "urlToImage": "https://1gr.cz/tempimg/fb/2022/9/FDV962214_scania_25l_e_truck_10.jpg",
+            "publishedAt": "2023-02-15T23:00:00Z",
+            "content": "Poítá s tím návrh, s ním v rámci takzvané Zelené dohody pro Evropu (Green Deal) pila Evropská komise. Aby pravidla zaala platit, musí je schválit lenské státy a Evropský parlament.\r\nNa rozdíl od auto… [+12915 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Idnes.cz"
+            },
+            "author": "https://www.facebook.com/iDNES.cz",
+            "title": "Brusel chce v roce 2030 čisté městské busy a zásadní omezení emisí náklaďáků",
+            "description": "Nové těžké nákladní vozy vyráběné v Evropské unii by měly od roku 2030 postupně omezovat emise oxidu uhličitého a v roce 2040 je snížit o 90 procent proti roku 2019. Všechny nové městské autobusy by zároveň měly od roku 2030 být zcela bezemisní.",
+            "url": "https://www.idnes.cz/auto/zpravodajstvi/evropska-komise-nakladak-kamion-nakladni-auto-autobus-emise-elektromobil.A230214_194050_automoto_fdv",
+            "urlToImage": "https://1gr.cz/tempimg/fb/2022/9/FDV962214_scania_25l_e_truck_10.jpg",
+            "publishedAt": "2023-02-15T23:00:00Z",
+            "content": "Poítá s tím návrh, s ním v rámci takzvané Zelené dohody pro Evropu (Green Deal) pila Evropská komise. Aby pravidla zaala platit, musí je schválit lenské státy a Evropský parlament.\r\nNa rozdíl od auto… [+12915 chars]"
+        },
+        {
+            "source": {
+                "id": "la-nacion",
+                "name": "La Nacion"
+            },
+            "author": "LA NACION",
+            "title": "Elon Musk cambia el algoritmo de Twitter para favorecer sus propios posteos",
+            "description": "El multimillonario exigió la modificación del método de difusión de sus tuits para garantizar que tengan una difusión más alta que la de cualquier usuario de la plataforma.",
+            "url": "https://www.lanacion.com.ar/estados-unidos/elon-musk-cambia-el-algoritmo-de-twitter-para-favorecer-sus-propios-posteos-nid15022023/",
+            "urlToImage": "https://resizer.glanacion.com/resizer/-5MXTEwTN4HtqpSTQtP3MWhk7CY=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/7PNGOFYGTZAMDGYVFGRVOXBRP4.jpg",
+            "publishedAt": "2023-02-15T22:58:44Z",
+            "content": "Elon Musk volvió a ordenar cambios en el algoritmo de Twitter con el objetivo de que se muestren más sus mensajes. La decisión la tomó tras ver la amplia difusión de los tuits de otras personalidades… [+2644 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena",
+            "title": "Production halt on Ford's electric F-150 Lightning will last at least a week and half",
+            "description": "Ford recently stopped production on the electric F-150 Lightning pickup because of a possible battery problem. A Ford spokesperson now says a return to production \"could take a few weeks.\"",
+            "url": "https://www.cnn.com/2023/02/15/business/ford-f-150-lightning-production-stop-battery-update/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230203162213-ford-electric-vehicle-center.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-15T22:50:16Z",
+            "content": "Ford recently stopped production on the electric F-150 Lightning pickup because of a possible battery problem. A Ford spokesperson now says a return to production could take a few weeks.\r\nThe potenti… [+2004 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Rob Crilly",
+            "title": "What Biden WON'T say about Social Security and Medicare",
+            "description": "The Congressional Budget Office says cash reserves of Social Security will run out in 2033 and, without reforms, will no longer be able to pay full benefits. So how will Joe Biden make up the shortfall?",
+            "url": "https://www.dailymail.co.uk/news/article-11754097/What-Biden-WONT-say-Social-Security-Medicare.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/02/15/21/67719207-0-image-a-2_1676496877895.jpg",
+            "publishedAt": "2023-02-15T22:47:29Z",
+            "content": "When President Joe Biden finally declares he is running in 2024 he will put protecting Social Security and Medicare at the heart of his manifesto for a second term.  \r\n'I know that for a lot of Repub… [+5902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Observador.pt"
+            },
+            "author": "Simone Carvalho",
+            "title": "Alguém gastou 7 milhões (só) para ridicularizar a Tesla",
+            "description": "Nem todos podem pagar uma fortuna para exibir um anúncio de 30 segundos no intervalo do Super Bowl, o que custa 7 milhões de dólares. Mas este homem conseguiu pôr no ar um anúncio de ataque à Tesla.",
+            "url": "https://observador.pt/2023/02/15/alguem-gastou-7-milhoes-so-para-ridicularizar-a-tesla/",
+            "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1105%3A623%3Anowe%3A225%3A168%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F02%2F15223005%2F1107571.jpg",
+            "publishedAt": "2023-02-15T22:45:41Z",
+            "content": "A Tesla é um fabricante norte-americano de veículos eléctricos que consegue coleccionar detractores com tanta facilidade como os fãs que se mobilizam na defesa acérrima da marca liderada por Elon Mus… [+5006 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "Tesla to open U.S. charging network to rivals",
+            "description": "(marketscreener.com) STORY: Tesla is preparing to play nice with competitors. https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Tesla-to-open-U-S-charging-network-to-rivals-43000118/?utm_medium=RSS&utm_content=20230215",
+            "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Tesla-to-open-U-S-charging-network-to-rivals-43000118/?utm_medium=RSS&utm_content=20230215",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+            "publishedAt": "2023-02-15T22:45:32Z",
+            "content": "For the first time, Tesla will open part of its U.S. charging network to electric vehicles made by rivals the White House announced on Wednesday.\r\nThe move is part of a $7.5 billion federal program t… [+954 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Staff Author",
+            "title": "Markets Reverse Earlier Losses and Finish Higher",
+            "description": "After initially falling as strong retail sales data stoked inflation concerns, U.S. stocks rallied to end the session on Feb. 15, closing with gains.",
+            "url": "https://www.investopedia.com/markets-reverse-earlier-losses-and-finish-higher-7110344",
+            "urlToImage": "https://www.investopedia.com/thmb/FwJb-dNhJI7r3RQR226yI3gogME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/indexesfeb15-842beff85aea487ead1559bef9e1cb63.png",
+            "publishedAt": "2023-02-15T22:43:07Z",
+            "content": "<ul><li>U.S. stocks edged higher on Wednesday, Feb. 15, with major equities indexes turning positive at the end of the trading session.</li><li>The tech-heavy Nasdaq increased 0.9%, while the S&amp;P… [+2327 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "Diabetes drug faces shortage as people use it for weight loss",
+            "description": "Social media buzz is driving up demand for the drug, with celebs like Elon Musk hyping its ability to control weight.",
+            "url": "https://www.cbsnews.com/news/ozempic-type-2-diabetes-drug-weight-loss-supply-shortage/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/15/1761d265-c446-4393-b4b9-e0f9466c1793/thumbnail/1200x630/32af3268cebffd0c695e4690e210a38f/gettyimages-1215178650.jpg",
+            "publishedAt": "2023-02-15T22:41:27Z",
+            "content": "A drug used to treat Type 2 diabetes has become wildly popular due to one of its side effects: weight loss. \r\nDemand for semaglutide, the generic form of brand name drugs Ozempic, Wegovy and Rybelsus… [+7274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "entrepreneur.com",
+            "title": "Tesla Workers Launch Union Campaign in New York",
+            "description": "Workers at a Tesla factory in Buffalo, New York, announced on Tuesday they intend to form a union. \"The group wants to form a union \"that looks to be as innovative as the company we work for,\" the group, Tesla Workers United, said in a statement posted online…",
+            "url": "https://biztoc.com/x/9ffb63052a6cf937",
+            "urlToImage": "https://c.biztoc.com/p/9ffb63052a6cf937/og.webp",
+            "publishedAt": "2023-02-15T22:40:05Z",
+            "content": "Workers at a Tesla factory in Buffalo, New York, announced on Tuesday they intend to form a union.\"The group wants to form a union \"that looks to be as innovative as the company we work for,\" the gro… [+322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "entrepreneur.com",
+            "title": "Tesla's Charging Stations Will Be Available to All EVs by 2024",
+            "description": "Tesla, the major player in the electric car industry, is set to open up some of its charging stations to all US electric vehicles for the first time. Under the new plan, at least 7,500 charging points from Tesla's Supercharger and Destination Charger networks…",
+            "url": "https://biztoc.com/x/f9f6e818a6858550",
+            "urlToImage": "https://c.biztoc.com/p/f9f6e818a6858550/og.webp",
+            "publishedAt": "2023-02-15T22:40:05Z",
+            "content": "Tesla, the major player in the electric car industry, is set to open up some of its charging stations to all US electric vehicles for the first time.Under the new plan, at least 7,500 charging points… [+310 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "FARNOUSH AMIRI Associated Press",
+            "title": "GOP subpoenas tech CEOs as part of probe into censorship",
+            "description": "Subpoenas have been sent to the chief executives of the five largest tech companies as congressional Republicans moved to investigate what they assert is widespread corporate censorship of conservative voices House Judiciary Chairman Jim Jordan issued ...",
+            "url": "https://abcnews.go.com/Business/wireStory/gop-subpoenas-tech-ceos-part-probe-censorship-97236487",
+            "urlToImage": "https://s.abcnews.com/images/Politics/wirestory_ce0e00d7ddeff8c08a95a7fbf01080f8_16x9_992.jpg",
+            "publishedAt": "2023-02-15T22:40:02Z",
+            "content": "WASHINGTON -- Subpoenas were sent to the chief executives of the five largest tech companies on Wednesday as congressional Republicans moved to investigate what they assert is widespread corporate ce… [+2715 chars]"
         }
     ]
 }
