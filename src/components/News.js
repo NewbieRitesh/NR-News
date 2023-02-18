@@ -1,67 +1,56 @@
-import React, { Component } from 'react'
+import React, { useEffect } from 'react'
+import { useState } from 'react';
 import Loading from './Loading';
 import NewsItem from './NewsItem'
 import InfiniteScroll from 'react-infinite-scroll-component';
 
-export default class News extends Component {
-  static defaultProps = {
-    pageSize: 18,
-    category: 'general'
-  }
-  static propsType = {
-    pageSize: Number,
-    category: String,
-  }
-  constructor() {
-    super();
-    this.state = {
-      articles: [],
-      page: 1,
-      hasMore: true
-    }
-  }
-  async componentDidMount() {
-    this.props.setProgress(10)
-    let url = `https://newsapi.org/v2/top-headlines?country=us&category=${this.props.category}&apiKey=${this.props.apiKey}&pageSize=${this.props.pageSize}&page=${this.state.page}`
+export default function News(props) {
+
+  const [articles, setArticles] = useState([])
+  const [page, setPage] = useState(1)
+  const [totalResults, setTotalResults] = useState(0)
+
+  const getNews = async() =>   {
+    props.setProgress(10)
+    let url = `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=${props.apiKey}&pageSize=${pageSize}&page=${page}`
     let data = await fetch(url);
-    this.props.setProgress(30)
+    props.setProgress(30)
     let parsedData = await data.json();
-    this.props.setProgress(50)
-    this.setState({
-      articles: parsedData.articles,
-      page: this.state.page + 1,
-      totalResults: parsedData.totalResults,
-    })
-    this.props.setProgress(100)
+    props.setProgress(50)
+    setArticles(parsedData.articles)
+    setPage(page + 1)
+    setTotalResults(parsedData.totalResults)
+    props.setProgress(100)
   }
-  fetchMoreData = async () => {
-    let url = `https://newsapi.org/v2/top-headlines?country=us&category=${this.props.category}&apiKey=${this.props.apiKey}&pageSize=${this.props.pageSize}&page=${this.state.page}`
+  useEffect(() => {
+    getNews();
+    // eslint-disable-next-line
+  }, [])
+
+  const fetchMoreData = async () => {
+    let url = `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=${props.apiKey}&pageSize=${pageSize}&page=${page}`
     let data = await fetch(url);
     let parsedData = await data.json();
-    this.setState({
-      articles: this.state.articles.concat(parsedData.articles),
-      page: this.state.page + 1,
-      hasMore: false
-    })
+    setArticles(articles.concat(parsedData.articles))
+    setPage(page + 1)
   }
-  firstUpperLetter(str){
+  const firstUpperLetter = (str) => {
     return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase()
   }
-  render() {
-    let {category, pageSize} = this.props
-    return (
-      <>
-        <InfiniteScroll
-          dataLength={this.state.articles.length}
-          next={this.fetchMoreData}
-          hasMore={(this.state.articles.length + pageSize) !== this.state.totalResults}
-          loader={<Loading />}
-        >
-          <div className="container">
-          <h2 className='text-center m-2'>{this.firstUpperLetter(category)} Headlines</h2>
-          {/* <h2>{this.props.category.charAt(0).toUpperCase() + this.props.category.slice(1).toLowerCase()}</h2> */}
+
+  let { category, pageSize } = props
+  return (
+    <>
+      <InfiniteScroll
+        dataLength={articles.length}
+        next={fetchMoreData}
+        hasMore={(articles.length) !== totalResults}
+        loader={<Loading />}
+      >
+        <div className="container">
+          <h2 className='text-center m-3'>{firstUpperLetter(category)} Headlines</h2>
           <div className="row">
-            {this.state.articles.map((element) => {
+            {articles.map((element) => {
               return <div className="col-md-4" key={element.url}>
                 <NewsItem
                   newsImg={element.urlToImage ? element.urlToImage : "https://media.istockphoto.com/id/1357365823/vector/default-image-icon-vector-missing-picture-page-for-website-design-or-mobile-app-no-photo.jpg?s=612x612&w=0&k=20&c=PM_optEhHBTZkuJQLlCjLz-v3zzxp-1mpNQZsdjrbns="}
@@ -73,10 +62,18 @@ export default class News extends Component {
                   newsSourceName={element.source.name ? element.source.name : "Unknown"} />
               </div>
             })}
-            </div>
           </div>
-        </InfiniteScroll>
-      </>
-    )
-  }
+        </div>
+      </InfiniteScroll>
+    </>
+  )
+}
+
+News.propsType = {
+  pageSize: Number,
+  category: String
+}
+News.defaultProps = {
+  pageSize: 18,
+  category: 'general'
 }
