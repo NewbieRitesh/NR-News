@@ -19,11 +19,6 @@ export default function App() {
     let text = event.target.value
     setSearchText(text)
   }
-  
-  const onclicksearch = async (event) => {
-    // event.preventDefault()
-  }
-
   return (
     <>
       <div>
@@ -35,7 +30,7 @@ export default function App() {
           <Navbar />
           <form className='d-flex flex-row container mt-4 mb-3'>
             <input id='search' className="form-control me-2" type="search" placeholder="Search any Topic" aria-label="Search" onChange={handleSearchText} />
-            <button type='submit' htmlFor="search" className="btn btn-outline-success" onClick={onclicksearch}><Link to={`/search/${searchText}`}>Search</Link></button>
+            <button type='submit' htmlFor="search" className="btn btn-outline-success"><Link to={`/search/${searchText}`}>Search</Link></button>
           </form>
           <div>
             <Routes>
