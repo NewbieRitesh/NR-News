@@ -8,14 +8,13 @@ export default function News(props) {
   const [page, setPage] = useState(1)
   const [totalResults, setTotalResults] = useState(0)
 
-  const getNews = async (e) => {
+  const getNews = async () => {
     if (props.searchText) {
       let url = `https://newsapi.org/v2/everything?q=${props.searchText}&apiKey=${props.apiKey}&page=${page}&pagesize=20`
       let data = await fetch(url);
       let parsedData = await data.json();
       setArticles(parsedData.articles)
       setTotalResults(parsedData.totalResults <= 100 ? parsedData.totalResults : 100)
-      e.preventDefault()
     }
     else {
       props.setProgress(10)
@@ -42,7 +41,6 @@ export default function News(props) {
       let parsedData = await data.json();
       setArticles(articles.concat(parsedData.articles))
       setPage(page + 1)
-      console.log(totalResults)
     }
     else {
       let url = `https://newsapi.org/v2/top-headlines?country=us&category=${props.category}&apiKey=${props.apiKey}&pageSize=${props.pageSize}&page=${page}`
@@ -54,7 +52,7 @@ export default function News(props) {
   }
 
   return (
-    <Newsarea fetchMoreData={fetchMoreData} articles={articles} totalResults={totalResults} category={props.category} />
+    <Newsarea fetchMoreData={fetchMoreData} articles={articles} totalResults={totalResults} searchText={props.searchText} category={props.category} />
   )
 }
 

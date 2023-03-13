@@ -12,13 +12,17 @@ export default function App() {
   const pageSize = 9
 
   const [searchText, setSearchText] = useState('')
-
+  const [clickSearchText, SetclickSearchText] = useState('')
 
   const handleSearchText = async (event) => {
     event.preventDefault()
-    let text = event.target.value
+    var text = event.target.value
     setSearchText(text)
   }
+  const finalSearchText = () => {
+    SetclickSearchText(searchText)
+  }
+
   return (
     <>
       <div>
@@ -28,10 +32,10 @@ export default function App() {
             progress={progress}
           />
           <Navbar />
-          <form className='d-flex flex-row container mt-4 mb-3'>
+          <div className='d-flex flex-row container mt-4 mb-3'>
             <input id='search' className="form-control me-2" type="search" placeholder="Search any Topic" aria-label="Search" onChange={handleSearchText} />
-            <button type='submit' htmlFor="search" className="btn btn-outline-success"><Link to={`/search/${searchText}`}>Search</Link></button>
-          </form>
+            <Link htmlFor="search" className="btn btn-outline-success" onClickCapture={finalSearchText} to={`${clickSearchText}`}>Search</Link>
+          </div>
           <div>
             <Routes>
               <Route path='/business' element={<News setProgress={setProgress} apiKey={apiKey} key={'business'} pageSize={pageSize} category={'business'} />} />
@@ -41,7 +45,7 @@ export default function App() {
               <Route path='/science' element={<News setProgress={setProgress} apiKey={apiKey} key={'science'} pageSize={pageSize} category={'science'} />} />
               <Route path='/sports' element={<News setProgress={setProgress} apiKey={apiKey} key={'sports'} pageSize={pageSize} category={'sports'} />} />
               <Route path='/technology' element={<News setProgress={setProgress} apiKey={apiKey} key={'technology'} pageSize={pageSize} category={'technology'} />} />
-              <Route path={`/search/${searchText}`} element={<News setProgress={setProgress} apiKey={apiKey} key={'search'} pageSize={pageSize} searchText={searchText} />} />
+              <Route path={`${clickSearchText}`} element={<News setProgress={setProgress} apiKey={apiKey} key={'search'} pageSize={pageSize} searchText={clickSearchText} />} />
             </Routes>
           </div>
         </BrowserRouter>
