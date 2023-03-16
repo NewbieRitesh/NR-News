@@ -21,7 +21,12 @@ export default function App() {
     setSearchText(text)
   }
   const finalSearchText = () => {
-    SetclickSearchText(searchText)
+    if (searchText.length !== 0) {
+      SetclickSearchText(searchText)
+    }
+    else{
+      alert("Enter Something to search")
+    }
   }
 
   return (
@@ -47,7 +52,7 @@ export default function App() {
               <Route path='/sports' element={<News setProgress={setProgress} apiKey={apiKey} key={'sports'} pageSize={pageSize} category={'sports'} />} />
               <Route path='/technology' element={<News setProgress={setProgress} apiKey={apiKey} key={'technology'} pageSize={pageSize} category={'technology'} />} />
               <Route path={`search/${clickSearchText}`} element={<News setProgress={setProgress} apiKey={apiKey} key={'search'} pageSize={pageSize} searchText={clickSearchText} />} />
-              <Route path='*' element={<NotFound/>} />
+              <Route path='*' element={<NotFound />} />
             </Routes>
           </div>
         </BrowserRouter>
