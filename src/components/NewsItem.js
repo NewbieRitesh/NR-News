@@ -8,11 +8,12 @@ export default function NewsItem(props) {
                 {newsSourceName}</span>
             <img src={newsImg} style={{ maxHeight: "10rem", maxWidth: "min-content", margin: "auto" }} className="card-img-top" alt="error" />
             <div className="card-body "><></>
-                <h5 className="card-title restrict-line line-2">{newsTitle}</h5>
-                <p className="card-text restrict-line line-2">{newsDesc}</p>
+                <a href={newsUrl} target="_blank" rel="noreferrer" className='text-decoration-none'>
+                    <h5 className="card-title restrict-line line-2 text-dark">{newsTitle}</h5>
+                    <p className="card-text restrict-line line-2 text-dark">{newsDesc}</p>
+                    <span className="d-block text-end">Read More</span></a>
                 <p className="small">Author: {newsAuthor}</p>
                 <p className="small">{new Date(newsDate).toLocaleString()}</p>
-                <a href={newsUrl} target="_blank" rel="noreferrer" className="btn btn-dark btn-sm">Read More</a>
             </div>
         </div>
     )
