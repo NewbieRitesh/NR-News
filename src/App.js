@@ -4,6 +4,7 @@ import { BrowserRouter, Link, Route, Routes } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import News from './components/News'
 import LoadingBar from 'react-top-loading-bar'
+import NotFound from './NotFound'
 
 export default function App() {
 
@@ -32,10 +33,10 @@ export default function App() {
             progress={progress}
           />
           <Navbar />
-          <div className='d-flex flex-row container mt-4 mb-3'>
+          <form className='d-flex flex-row container mt-4 mb-3'>
             <input id='search' className="form-control me-2" type="search" placeholder="Search any Topic" aria-label="Search" onChange={handleSearchText} />
-            <Link htmlFor="search" className="btn btn-outline-success" onClickCapture={finalSearchText} to={`${clickSearchText}`}>Search</Link>
-          </div>
+            <Link htmlFor="search" onClickCapture={finalSearchText} to={`/search/${clickSearchText}`}><button className="btn btn-outline-success">Search</button></Link>
+          </form>
           <div>
             <Routes>
               <Route path='/business' element={<News setProgress={setProgress} apiKey={apiKey} key={'business'} pageSize={pageSize} category={'business'} />} />
@@ -45,7 +46,8 @@ export default function App() {
               <Route path='/science' element={<News setProgress={setProgress} apiKey={apiKey} key={'science'} pageSize={pageSize} category={'science'} />} />
               <Route path='/sports' element={<News setProgress={setProgress} apiKey={apiKey} key={'sports'} pageSize={pageSize} category={'sports'} />} />
               <Route path='/technology' element={<News setProgress={setProgress} apiKey={apiKey} key={'technology'} pageSize={pageSize} category={'technology'} />} />
-              <Route path={`${clickSearchText}`} element={<News setProgress={setProgress} apiKey={apiKey} key={'search'} pageSize={pageSize} searchText={clickSearchText} />} />
+              <Route path={`search/${clickSearchText}`} element={<News setProgress={setProgress} apiKey={apiKey} key={'search'} pageSize={pageSize} searchText={clickSearchText} />} />
+              <Route path='*' element={<NotFound/>} />
             </Routes>
           </div>
         </BrowserRouter>
