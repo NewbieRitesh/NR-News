@@ -14,18 +14,18 @@ export default function App() {
 
   const [searchText, setSearchText] = useState('')
   const [clickSearchText, SetclickSearchText] = useState('')
-
   const handleSearchText = async (event) => {
     event.preventDefault()
     var text = event.target.value
     setSearchText(text)
   }
-  const finalSearchText = () => {
+  const finalSearchText = (e) => {
     if (searchText.length !== 0) {
       SetclickSearchText(searchText)
     }
-    else{
+    else {
       alert("Enter Something to search")
+      e.preventDefault()
     }
   }
 
