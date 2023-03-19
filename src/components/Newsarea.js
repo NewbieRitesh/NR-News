@@ -2,11 +2,14 @@ import React from 'react'
 import Loading from './Loading';
 import NewsItem from './NewsItem'
 import InfiniteScroll from 'react-infinite-scroll-component';
+import { useSelector } from 'react-redux';
+import { modeStyle } from '../redux/reducer/darkModeReducer';
 
 export default function Newsarea(props) {
     const firstUpperLetter = (str) => {
         return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase()
     }
+    const changeStyle = useSelector(modeStyle)
     return (
         <>
             <InfiniteScroll
@@ -16,7 +19,7 @@ export default function Newsarea(props) {
                 loader={<Loading />}
             >
                 <div className="container">
-                    <h2 className='text-center m-3'>{props.searchText ? `News about ${props.searchText}` : `${firstUpperLetter(props.category)} Headlines`}</h2>
+                    <h2 className={`text-center m-3 ${changeStyle.text}`}>{props.searchText ? `News about ${props.searchText}` : `${firstUpperLetter(props.category)} Headlines`}</h2>
                     <div className="row">
                         {props.articles.map((element) => {
                             return <div className="col-md-4" key={element.url}>

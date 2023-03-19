@@ -1,3 +1,5 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+
 .restrict-line {
     overflow: hidden;
     text-overflow: ellipsis;
@@ -11,4 +13,8 @@
  .line-2{
     -webkit-line-clamp: 2;
             line-clamp: 2;
+ }
+
+ .placeholder-dark::placeholder{
+   color: white;
  }

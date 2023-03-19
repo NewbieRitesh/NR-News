@@ -5,15 +5,18 @@ import Navbar from './components/Navbar'
 import News from './components/News'
 import LoadingBar from 'react-top-loading-bar'
 import NotFound from './NotFound'
+import { useSelector } from 'react-redux'
+import { modeStyle } from './redux/reducer/darkModeReducer'
 
 export default function App() {
-
+  
   const [progress, setProgress] = useState(0)
   const apiKey = process.env.REACT_APP_NEWS_API
   const pageSize = 9
-
   const [searchText, setSearchText] = useState('')
   const [clickSearchText, SetclickSearchText] = useState('')
+  const changeStyle = useSelector(modeStyle)
+
   const handleSearchText = async (event) => {
     event.preventDefault()
     var text = event.target.value
@@ -28,10 +31,9 @@ export default function App() {
       e.preventDefault()
     }
   }
-
   return (
     <>
-      <div>
+      <div className={`${changeStyle.bg}`}>
         <BrowserRouter>
           <LoadingBar
             color='#f11946'
@@ -39,7 +41,7 @@ export default function App() {
           />
           <Navbar />
           <form className='d-flex flex-row container mt-4 mb-3'>
-            <input id='search' className="form-control me-2" type="search" placeholder="Search any Topic" aria-label="Search" onChange={handleSearchText} />
+            <input id='search' className={`form-control me-2 ${changeStyle.bg} ${changeStyle.text} ${changeStyle.type==='dark'?'placeholder-dark':''}`} type="search" placeholder="Search any Topic" aria-label="Search" onChange={handleSearchText} />
             <Link htmlFor="search" onClickCapture={finalSearchText} to={`/search/${clickSearchText}`}><button className="btn btn-outline-success">Search</button></Link>
           </form>
           <div>
