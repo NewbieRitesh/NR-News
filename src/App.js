@@ -9,7 +9,6 @@ import { useSelector } from 'react-redux'
 import { modeStyle } from './redux/reducer/darkModeReducer'
 
 export default function App() {
-  
   const [progress, setProgress] = useState(0)
   const apiKey = process.env.REACT_APP_NEWS_API
   const pageSize = 9
@@ -40,10 +39,12 @@ export default function App() {
             progress={progress}
           />
           <Navbar />
-          <form className='d-flex flex-row container mt-4 mb-3'>
-            <input id='search' className={`form-control me-2 ${changeStyle.bg} ${changeStyle.text} ${changeStyle.type==='dark'?'placeholder-dark':''}`} type="search" placeholder="Search any Topic" aria-label="Search" onChange={handleSearchText} />
-            <Link htmlFor="search" onClickCapture={finalSearchText} to={`/search/${clickSearchText}`}><button className="btn btn-outline-success">Search</button></Link>
-          </form>
+          <div className='w-100'>
+            <form className='d-flex flex-row justify-content-center container mt-4 mb-3' style={{ maxWidth: '500px' }}>
+              <input id='search' className={`form-control me-2 ${changeStyle.bg} ${changeStyle.text} ${changeStyle.type === 'dark' ? 'placeholder-dark' : ''}`} type="search" placeholder="Search any Topic" aria-label="Search" onChange={handleSearchText} />
+              <Link htmlFor="search" onClickCapture={finalSearchText} to={`/search/${clickSearchText}`}><button className="btn btn-outline-success">Search</button></Link>
+            </form>
+          </div>
           <div>
             <Routes>
               <Route path='/business' element={<News setProgress={setProgress} apiKey={apiKey} key={'business'} pageSize={pageSize} category={'business'} />} />

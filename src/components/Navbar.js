@@ -21,8 +21,8 @@ export default function Navbar() {
     }
 
     return (
-        <div className="sticky-top">
-            <nav className={`navbar navbar-expand-lg navbar-${changeStyle.type} ${changeStyle.bg}`} data-bs-theme={changeStyle.type === 'light' ? '' : 'dark'} >
+        <div className="sticky-top" >
+            <nav className={`navbar container navbar-expand-lg navbar-${changeStyle.type} ${changeStyle.bg}`} data-bs-theme={changeStyle.type === 'light' ? '' : 'dark'} >
                 <div className="container-fluid">
                     <Link className="navbar-brand" to="/">NR News</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,7 +48,8 @@ export default function Navbar() {
                                 </ul>
                             </li>
                         </ul>
-                        <button className={`bg-transparent border-0 ${changeStyle.text} fs-4`} onClick={changeMode}>
+                        <button className={`bg-transparent hover:pointer border-0 d-flex align-items-center ${changeStyle.text} fs-4`} onClick={changeMode}>
+                            <span className='fs-6 me-2'>{changeStyle.type === 'light' ? "Enable Dark Mode" : "Enable Light Mode"}</span>
                             <i className={`bi bi-${changeStyle.type === 'light' ? 'moon-stars-fill' : 'brightness-high-fill'}`} />
                         </button>
                     </div>
