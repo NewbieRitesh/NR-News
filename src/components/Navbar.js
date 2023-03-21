@@ -9,12 +9,10 @@ export default function Navbar() {
     const [setMode, setSetMode] = useState('light')
     const changeMode = () => {
         if (setMode === 'light') {
-            console.log(changeStyle);
             setSetMode('dark')
             dispatch(darkMode())
         }
         else if (setMode === 'dark') {
-            console.log(changeStyle);
             setSetMode('light')
             dispatch(lightMode())
         }
